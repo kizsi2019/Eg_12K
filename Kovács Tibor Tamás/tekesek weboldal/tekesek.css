@@ -1,0 +1,55 @@
+Header{
+	background-image: url(tek.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 10vh;
+	border-radius: 10px;
+}
+
+body{
+	background-image: url(tek-608396.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+
+
+h1{
+	text-align: center;
+	font-size: 10vh;
+	padding-bottom: 10vh;
+	text-shadow: 3px 3px white;
+}
+
+.elsobekezdes{
+	color: red;
+}
+.masodikbekezdes{
+	color: blue;
+}
+.harmadikbekezdes{
+	color: yellowgreen;
+}
+
+
+main{
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 50px;
+	margin-top: 30px;
+	background-color: rgba(244,244,244,0.5);
+	text-align: justify;
+	
+}
+
+
+
+
+
+
+

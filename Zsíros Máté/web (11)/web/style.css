@@ -1,0 +1,27 @@
+body{
+	background-image: url(massi.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+h1{
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+footer{
+	background-color: darkkhaki;
+	text-align: right;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:visited{
+	color: yellow;
+}
+p{
+
+}

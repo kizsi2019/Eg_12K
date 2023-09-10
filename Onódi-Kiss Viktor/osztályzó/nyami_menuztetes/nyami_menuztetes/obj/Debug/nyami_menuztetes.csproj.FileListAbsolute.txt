@@ -1,0 +1,24 @@
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\nyami_menuztetes.exe.config
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\nyami_menuztetes.exe
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\nyami_menuztetes.pdb
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.SuggestedBindingRedirects.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.Properties.Resources.resources
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.GenerateResource.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.exe
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.pdb
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.MainForm.resources
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.Nevjegy.resources
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\EntityFramework.dll
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\System.Data.SQLite.dll
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\EntityFramework.xml
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\bin\Debug\System.Data.SQLite.xml
+C:\Users\okvik\Documents\Programozás projektek\C#\2022-23\osztalyozo_23_OKV\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.CopyComplete
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\12K\Onódi-Kiss Viktor\osztályzó\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\12K\Onódi-Kiss Viktor\osztályzó\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\12K\Onódi-Kiss Viktor\osztályzó\nyami_menuztetes\nyami_menuztetes\obj\Debug\nyami_menuztetes.pdb

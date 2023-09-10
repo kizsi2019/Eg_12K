@@ -1,0 +1,100 @@
+body{
+background-color: rgb(245,222,179);
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+.kacsa{
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+}
+.kacsa img{
+	max-width: 100%;
+	border-radius: 50%;
+	box-shadow: 2px 2px 4px #888;
+}
+.kacsa h2{
+	font-size: 24px;
+	color: #008080;
+	margin-top: 10px;
+}
+.kacsa p{
+	font-size: 16px;
+	color: #444;
+	margin-top: 5px;
+	text-align: justify;
+}
+img{
+	width: 160px; 
+}
+img:hover{
+	animation-name: forog;
+	animation-duration: 10s;
+	animation-iteration-count: 1;
+	animation-timing-function: linear; 
+}
+@keyframes forog{
+	40%{
+		transform: rotate(360deg);
+	}
+	70%
+	{
+		transform: rotate(720deg);
+	}
+	90%
+	{
+		transform: rotate(1080deg);
+	}
+	100%
+	{
+		transform: rotate(1440deg);
+	}
+#grid-container{
+	display: grid;
+	grid-template-areas: ' left left right right middle middle'; 
+}
+#left{
+	grid-area: left;
+}
+#right{
+	grid-area: right;
+}
+#middle{
+	grid-area: middle;
+}
+section[id="right"] div{
+	margin-top: 5px;
+	width: 300px;
+	height: 4px;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 2em;
+	background-color: lightblue;
+}
+section[id="left"] div{	
+	margin-top: 5px;
+	width: 300px;
+	height: 4px;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 2em;
+	background-color: lightblue;
+}
+section[id="middle"] div{	
+	margin-top: 5px;
+	width: 300px;
+	height: 4px;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 2em;
+	background-color: lightblue;
+}
+h1{
+	font-family: times new roman;
+	font-weight: 600;
+	font-size: 6em;
+	padding-top: 40px;
