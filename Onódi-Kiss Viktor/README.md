@@ -7,3 +7,4 @@ Itt találhatóak a(z)
 - házi feladatok
 - beadandók
 
+**Ez a mappa a 2023/24-es tanévre szól**
