@@ -1,0 +1,11 @@
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\bin\Debug\sudokuGUI.exe.config
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\bin\Debug\sudokuGUI.exe
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\bin\Debug\sudokuGUI.pdb
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.Properties.Resources.resources
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.csproj.GenerateResource.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.exe
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.pdb
+C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\sudokuGUI\obj\Debug\sudokuGUI.Form1.resources
