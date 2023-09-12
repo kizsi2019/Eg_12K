@@ -1,0 +1,2 @@
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\sudoku\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\sudoku\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
