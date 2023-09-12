@@ -1,0 +1,7 @@
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe.config
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.pdb
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.exe
+H:\B.Zs\github\Eg_12K\Tóth Bence\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.pdb
