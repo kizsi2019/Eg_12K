@@ -1,0 +1,15 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\bin\Debug\net6.0\sudokuCLI.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\bin\Debug\net6.0\sudokuCLI.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\bin\Debug\net6.0\sudokuCLI.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\bin\Debug\net6.0\sudokuCLI.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\bin\Debug\net6.0\sudokuCLI.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\refint\sudokuCLI.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\sudokuCLI.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\sudokuCLI\sudokuCLI\obj\Debug\net6.0\ref\sudokuCLI.dll
