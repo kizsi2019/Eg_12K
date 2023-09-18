@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.exe.config
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.pdb
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\Szúdoku megoldás\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.pdb
