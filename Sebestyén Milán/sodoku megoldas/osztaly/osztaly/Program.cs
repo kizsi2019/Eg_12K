@@ -24,11 +24,11 @@ namespace osztaly
             {
                 if (Kezdo[i] == '0')
                 {
-                    Console.Write(". ");
+                    Console.Write(".");
                 }
                 else
                 {
-                    Console.Write(Kezdo[i]+" ");
+                    Console.Write(Kezdo[i]);
                 }
                 if (i % Meret == Meret - 1)
                 {
@@ -73,47 +73,11 @@ namespace osztaly
                 Console.WriteLine("alegnagyobbmeretbőlennyialegnagyobb");
                 Console.WriteLine(  meretdb);
 
-                Console.WriteLine("5.feladat");
-                Random r = new Random();
-                int kivalasztottindex = 0;
-                do
-                {
-                    kivalasztottindex = r.Next(0, lista.Count);
-                } while (lista[kivalasztottindex].Meret != meret);
-                Console.WriteLine("a kisorsolt elem kezdoallapota"+ lista[kivalasztottindex].Kezdo);
 
-                Console.WriteLine("6. feladat");
-                int nemNulldb = 0;
-                int hossz = lista[kivalasztottindex].Kezdo.Length;
-                for (int i = 0; i < hossz; i++)
-                {
-                    if (lista[kivalasztottindex].Kezdo[i]!=0)
-                    {
-                        nemNulldb++;
-                    }
 
-                }
-                double kitoltotseg =(double)nemNulldb / hossz * 100;
 
-                Console.WriteLine("a feladvany kitoltotsege"+  Math.Round(kitoltotseg,0)+"%");
 
-                Console.WriteLine("7. feladat");
-                Console.WriteLine("kep");
 
-                lista[kivalasztottindex].Kirajzol();
-
-                Console.WriteLine("8. feladat");
-                string faljneve = "sodoku" + meret + ".txt";
-                StreamWriter sw = new StreamWriter(faljneve);
-                for (int i = 0; i < lista.Count; i++)
-                {
-                    if (lista[i].Meret == meret)
-                    {
-                        sw.WriteLine(lista[i].Kezdo);
-                    }
-                    
-                }
-                sw.Close();
 
 
 
