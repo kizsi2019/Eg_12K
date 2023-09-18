@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
-using System.IO;
 using System.Threading.Tasks;
 
-namespace szudokuCLI
+namespace SzudokuCLI
 {
     class Feladvany
     {
@@ -38,141 +38,81 @@ namespace szudokuCLI
         }
     }
 
-
     class Program
     {
-        static List<Feladvany> lista =  new List<Feladvany>();
-
+        static List <Feladvany>  lista = new List<Feladvany>();
         static void Main(string[] args)
         {
-            //Import
             StreamReader sr = new StreamReader("feladvanyok.txt", Encoding.UTF8);
-            string sor = "";
-
-            while (!sr.EndOfStream)
+            string sor = " ";
+            while(!sr.EndOfStream)
             {
                 sor = sr.ReadLine();
                 Feladvany f = new Feladvany(sor);
-
                 lista.Add(f);
+
             }
-            sr.Close();
-
-            Console.WriteLine("3. feladat");
-            Console.WriteLine("Beolvasva ennyi feladvány: " + lista.Count);
-
-            
-
-            //4. feladat
-
-            Console.WriteLine("4. feladat");
-
+           sr.Close();
+            Console.WriteLine("3.feladat");
+            Console.WriteLine("Beolvasva ennyi feladat:", lista.Count);
+            Console.WriteLine("4.feladat");
             int meret = 0;
             do
             {
-                Console.WriteLine("Kérem a szudoku méretét 4 és 9 között: ");
-
+                Console.WriteLine("Kérem a szudoku méretét 4 és 9 között");
                 meret = Convert.ToInt32(Console.ReadLine());
             } while (meret < 4 || meret > 9);
-
             int meretDB = 0;
-            for (int i = 0; i < lista.Count; i++)
-
+            for(int i =0; i < lista.Count; i++)
             {
-                if (lista[i].Meret == meret)
+                if(lista[i].Meret == meret)
                 {
                     meretDB++;
                 }
             }
-
-            Console.WriteLine("A megadott méretből ennyi van: " + meretDB);
+            Console.WriteLine("A megosztott méretből ennyi van:" + meretDB);
 
             Console.WriteLine("5. feladat");
 
             Random r = new Random();
-            int kivalaszottIndex = 0;
-
+            int kivalasztottIndex = 0;
             do
             {
-                kivalaszottIndex = r.Next(0, lista.Count);
+                kivalasztottIndex = r.Next(0, lista.Count);
+            } while (lista[kivalasztottIndex].Meret != meret);
+            Console.WriteLine("A kisorsolt elem kezdő állapota : "+ lista[kivalasztottIndex].Kezdo);
 
-            } while (lista[kivalaszottIndex].Meret != meret);
-
-            Console.WriteLine("A kisorsolt elem kezdő állapota: " + lista[kivalaszottIndex].Kezdo);
-
-            Console.WriteLine("6. feladat");
-
+            Console.WriteLine("6.feladat");
             int nemNullaDb = 0;
-
-            int hossz = lista[kivalaszottIndex].Kezdo.Length;
-
-            for (int i = 0; i < hossz; i++)
+            int hossz = lista[kivalasztottIndex].Kezdo.Length;
+            for(int i =0; i < hossz; i++)
             {
-                if (lista[kivalaszottIndex].Kezdo[i] != '0')
+                if (lista[kivalasztottIndex].Kezdo[i] != '0')
                 {
                     nemNullaDb++;
                 }
             }
-
             double kitoltottseg = (double)nemNullaDb / hossz * 100;
+            Console.WriteLine("A feladvány kitöltöttsége:" + Math.Round(kitoltottseg, 0) + " % ");
+            Console.WriteLine("7.feladat");
+            Console.WriteLine("A kiválasztott feladvány kirajzolva: ");
+            lista[kivalasztottIndex].Kirajzol();
 
-            Console.WriteLine("A feladvany kitoltottsege: " + Math.Round(kitoltottseg, 0) + "%");
-
-            // 7. feladat
-            Console.WriteLine("7. feladat");
-
-            Console.WriteLine("A kivalasztott feladvany kirajzolva: ");
-
-            lista[kivalaszottIndex].Kirajzol();
-
-
-            //8. feladat
-
-            Console.WriteLine("8. feladat");
-            string fajlneve = "sudoku" + meret + ".txt";
-
-            StreamWriter sw = new StreamWriter(fajlneve);
-            for (int i = 0; i < lista.Count; i++)
+            Console.WriteLine("8.feladat");
+            string faljneve = "Sudoku" + meret + ".txt";
+            StreamWriter sw = new StreamWriter(faljneve);
+            for(int i =0; i < lista.Count; i++)
             {
-                if (lista[i].Meret == meret)
+                if(lista[i].Meret == meret)
                 {
                     sw.WriteLine(lista[i].Kezdo);
                 }
             }
             sw.Close();
-
-            Console.WriteLine("A kivalasztott meretuek kiirva a fajlba!");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("A kiválasztott méretűek kiírva a fáljba");
 
             Console.ReadKey();
-
-
-
-
-
-
-
         }
+        
     }
 }
