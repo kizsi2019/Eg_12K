@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Szúdoku_megoldás")]
+[assembly: AssemblyTitle("SzudokuCLI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Szúdoku_megoldás")]
+[assembly: AssemblyProduct("SzudokuCLI")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0fb881dc-74ca-486c-af6b-55cd40a71169")]
+[assembly: Guid("d34a866f-9353-443a-a590-04793beae718")]
 
 // Version information for an assembly consists of the following four values:
 //
