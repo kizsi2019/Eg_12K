@@ -191,5 +191,18 @@ namespace _09_25_orai
 
             return terulet;
         }
+
+        static int Ter(int a)
+        {
+            int terulet = a * a;
+
+            return terulet;
+        }
+        static int Ker(int a)
+        {
+            int kerulet = a * 4;
+
+            return kerulet;
+        }
     }
 }
