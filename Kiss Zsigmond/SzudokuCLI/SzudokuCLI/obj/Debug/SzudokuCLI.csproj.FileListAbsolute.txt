@@ -1,0 +1,7 @@
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.exe.config
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.exe
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\bin\Debug\SzudokuCLI.pdb
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.exe
+C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\SzudokuCLI\SzudokuCLI\obj\Debug\SzudokuCLI.pdb

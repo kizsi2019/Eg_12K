@@ -1,0 +1,7 @@
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.exe.config
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.exe
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.pdb
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.csproj.AssemblyReference.cache
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.csproj.CoreCompileInputs.cache
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.exe
+H:\github\Eg_12K\Kiss  Benedek\sudokuMegoldas\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.pdb
