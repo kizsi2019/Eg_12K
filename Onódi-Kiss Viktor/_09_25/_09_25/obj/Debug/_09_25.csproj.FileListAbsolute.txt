@@ -1,0 +1,8 @@
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\bin\Debug\_09_25.exe.config
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\bin\Debug\_09_25.exe
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\bin\Debug\_09_25.pdb
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\obj\Debug\_09_25.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\obj\Debug\_09_25.csproj.SuggestedBindingRedirects.cache
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\obj\Debug\_09_25.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\obj\Debug\_09_25.exe
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\_09_25\_09_25\obj\Debug\_09_25.pdb

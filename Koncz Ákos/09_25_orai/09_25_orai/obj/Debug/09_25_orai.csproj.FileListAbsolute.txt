@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\bin\Debug\09_25_orai.exe.config
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\bin\Debug\09_25_orai.exe
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\bin\Debug\09_25_orai.pdb
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\obj\Debug\09_25_orai.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\obj\Debug\09_25_orai.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\obj\Debug\09_25_orai.exe
+C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\09_25_orai\09_25_orai\obj\Debug\09_25_orai.pdb
