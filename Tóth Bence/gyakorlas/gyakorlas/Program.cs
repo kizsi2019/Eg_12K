@@ -188,7 +188,6 @@ namespace gyakorlas
                 Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");*/
 
 
-
                 Console.ReadKey();
 
         }
