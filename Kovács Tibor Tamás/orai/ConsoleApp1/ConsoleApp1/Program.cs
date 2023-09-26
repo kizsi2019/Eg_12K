@@ -11,10 +11,10 @@ namespace gyakorlas
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Szia uram!");
-            Console.Beep(140, 2000);
-            Console.Clear();
-            Console.ReadKey();*/
+            /*Console.WriteLine("Gojo");
+            Console.Beep(504, 2000);
+            Console.Clear();*/
+
 
             //0-t ír ki, mivel x int és a 4 is int
             /*int x = 3;
@@ -23,13 +23,13 @@ namespace gyakorlas
             //0,75 mert az x átkonvertálódik double típusra
             Console.WriteLine((double)x / 4);*/
 
-            /*Console.WriteLine("Add meg a négyzet oldalált");
-            int szam = Convert.ToInt32(Console.ReadLine());
-            int ker = 4 * szam;
-            int ter = szam * szam;
-            Console.WriteLine("A négyzetnek a terület:" + ter);
-            Console.WriteLine("A négyzetnek a kerülete:" + ker);
-            Console.ReadKey(); */
+
+            /*Console.WriteLine("Add meg a négyzet oldalát: ");
+            string a = Console.ReadLine();
+            int t = Convert.ToInt32(a) * Convert.ToInt32(a);
+            int k = Convert.ToInt32(a) * 4;
+            Console.WriteLine("A négyzet kerülete: " + k);
+            Console.WriteLine("A négyzet területe: " + t);*/
 
             /*Console.WriteLine("Pénz: {0:C1}", 3148);
             Console.WriteLine("Százalék: {0:P3}", 0.123456);
@@ -40,6 +40,9 @@ namespace gyakorlas
             /*string nev = "World";
             string hello = $"Hello {nev}!";
             Console.WriteLine(hello);*/
+
+            //Console.WriteLine(DateTime.Now);
+
             /*var ido = DateTime.Now;
 
             Console.WriteLine("{0:d}", ido);
@@ -53,9 +56,7 @@ namespace gyakorlas
             Console.WriteLine("{0:M}", ido);
             Console.WriteLine("{0:r}", ido);
             Console.WriteLine("{0:Y}", ido);
-            Console.WriteLine("{0:yyyy-mm-dd, dddd tt hh:mm:ss}", ido);
-            Console.ReadKey();*/
-
+            Console.WriteLine("{0:yyyy-mm-dd, dddd tt hh:mm:ss}", ido);*/
 
             /*var uiCulture = CultureInfo.CurrentUICulture;
             var currentCulture = CultureInfo.CurrentCulture;
@@ -72,39 +73,38 @@ namespace gyakorlas
             Console.WriteLine(angol);
 
             var angolFormat = Convert.ToDouble("3.14", angolCulture);
-            Console.WriteLine(angolFormat);
+            Console.WriteLine(angolFormat);*/
 
-            string teszt = "🐰";
+            /*string teszt = "🐰";
             Console.WriteLine("A szoveg hossza: {0}", teszt.Length);
 
             var info = new StringInfo(teszt);
             Console.WriteLine("A szoveg valodi hossza: {0}", info.LengthInTextElements);*/
 
+
             /*double b = Math.Ceiling(1.12);
             Console.WriteLine(b);
             int a = Math.Max(2, 3);
             Console.WriteLine(a);
-            double c = Math.Round(1.12345, 2);
+           
+            double c = Math.Round(1.7345, 0);
             Console.WriteLine(c);
+
             Console.WriteLine(Math.PI);*/
 
-            /*Console.WriteLine("add meg a kör sugarát");
-            string bekert = Console.ReadLine();
-            int szam = Convert.ToInt32(bekert);
-            var ker = Math.PI * 2 * szam;
-            var ter = szam * szam * Math.PI;
-            var kerulet = Math.Round(ker, 2);
-            var terulet = Math.Round(ter, 2);
-            Console.WriteLine("A kör kerülete: " + kerulet);
-            Console.WriteLine("A kör területe: " + terulet);*/
-
+            /*Console.WriteLine("Add meg a kör sugarát: ");
+            string r = Console.ReadLine();
+            double kerulet = 2 * Convert.ToInt32(r) * Math.PI;
+            double terulet = Math.Pow(Convert.ToInt32(r), 2) * Math.PI;
+            Console.WriteLine("A kör kerülete: " + Math.Round(kerulet, 2));
+            Console.WriteLine("A kör területe: " + Math.Round(terulet, 2));*/
 
             /*Console.WriteLine("Menü program");
             Console.WriteLine("Opciók:");
             Console.WriteLine("A: Kis kávé, B: Nagy kávé");
             Console.WriteLine("C: Nem iszom semmit");
-            Console.Write("Kérem válasszon!: ");*/
-            /*var gomb = (char)Console.Read();
+            Console.Write("Kérem válasszon!: ");
+            var gomb = (char)Console.Read();
 
             if (gomb == 'A' || gomb == 'a')
             {
@@ -120,7 +120,8 @@ namespace gyakorlas
             }
             else
             {
-                Console.WriteLine("Nem jó gombot nyomott!");*/
+                Console.WriteLine("Nem jó gombot nyomott!");
+            }*/
 
             /*Console.WriteLine("Menü program");
             Console.WriteLine("Opciók:");
@@ -150,8 +151,7 @@ namespace gyakorlas
 
             /*string szoveg = "valami szöveg";
             int szam = Convert.ToInt32(szoveg);
-            Console.WriteLine(szam);
-            Console.ReadKey();*/
+            Console.WriteLine(szam);*/
 
             /*try
             {
@@ -163,7 +163,8 @@ namespace gyakorlas
             catch (FormatException ex)
             {
                 Console.WriteLine("Valami hiba történt: {0}", ex.Message);
-            }
+            }*/
+
             Console.WriteLine("Kettővel szorzó v. 1.0");
             Console.WriteLine("Adjon meg egy egész páros számot!");
             try
@@ -185,11 +186,9 @@ namespace gyakorlas
             }
             finally
             {
-                Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");*/
-
-
+                Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
                 Console.ReadKey();
-
+            }
         }
     }
 }
