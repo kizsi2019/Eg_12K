@@ -1,0 +1,7 @@
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb
