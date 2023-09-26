@@ -11,8 +11,8 @@ namespace gyakorlas
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Gojo");
-            Console.Beep(504, 2000);
+            /*Console.WriteLine("Hello");
+            Console.Beep(204, 2000);
             Console.Clear();*/
 
 
@@ -24,7 +24,7 @@ namespace gyakorlas
             Console.WriteLine((double)x / 4);*/
 
 
-            /*Console.WriteLine("Add meg a négyzet oldalát: ");
+            /*Console.WriteLine("Kérem adja meg a négyzet oldalát: ");
             string a = Console.ReadLine();
             int t = Convert.ToInt32(a) * Convert.ToInt32(a);
             int k = Convert.ToInt32(a) * 4;
@@ -92,7 +92,7 @@ namespace gyakorlas
 
             Console.WriteLine(Math.PI);*/
 
-            /*Console.WriteLine("Add meg a kör sugarát: ");
+            /*Console.WriteLine("Kérem adja meg a kör sugarát: ");
             string r = Console.ReadLine();
             double kerulet = 2 * Convert.ToInt32(r) * Math.PI;
             double terulet = Math.Pow(Convert.ToInt32(r), 2) * Math.PI;
@@ -108,25 +108,25 @@ namespace gyakorlas
 
             if (gomb == 'A' || gomb == 'a')
             {
-                Console.WriteLine("Kis kávét választott");
+                Console.WriteLine("Kis kávé");
             }
             else if (gomb == 'B' || gomb == 'b')
             {
-                Console.WriteLine("Nagy kávét választott");
+                Console.WriteLine("Nagy kávé");
             }
             else if (gomb == 'C' || gomb == 'c')
             {
-                Console.WriteLine("Kár");
+                Console.WriteLine("Ne már");
             }
             else
             {
-                Console.WriteLine("Nem jó gombot nyomott!");
+                Console.WriteLine("Nem jó gomb!");
             }*/
 
-            /*Console.WriteLine("Menü program");
+            /*Console.WriteLine("Menü");
             Console.WriteLine("Opciók:");
             Console.WriteLine("A: Kis kávé, B: Nagy kávé");
-            Console.WriteLine("C: Nem iszom semmit");
+            Console.WriteLine("C: Nem iszok semmit");
             Console.Write("Kérem válasszon!: ");
             var gomb = (char)Console.Read();
 
@@ -134,28 +134,28 @@ namespace gyakorlas
             {
                 case 'A':
                 case 'a':
-                    Console.WriteLine("Kis kávét választott");
+                    Console.WriteLine("Kis kávé");
                     break;
                 case 'B':
                 case 'b':
-                    Console.WriteLine("Nagy kávét választott");
+                    Console.WriteLine("Nagy kávé");
                     break;
                 case 'C':
                 case 'c':
-                    Console.WriteLine("Kár");
+                    Console.WriteLine("Ne már");
                     break;
                 default:
-                    Console.WriteLine("Nem jó gombot nyomott!");
+                    Console.WriteLine("Nem jó gomb!");
                     break;
             }*/
 
-            /*string szoveg = "valami szöveg";
+            /*string szoveg = "valami";
             int szam = Convert.ToInt32(szoveg);
             Console.WriteLine(szam);*/
 
             /*try
             {
-                string szoveg = "valami szöveg";
+                string szoveg = "valami";
                 int szam = Convert.ToInt32(szoveg);
                 Console.WriteLine(szam);
 

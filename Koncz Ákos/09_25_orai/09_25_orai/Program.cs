@@ -17,8 +17,6 @@ namespace _09_25_orai
             //0,75 mert az x átkonvertálódik double típusra
             Console.WriteLine((double)x / 4);
 
-            Console.ReadKey();
-
 
             Console.WriteLine("Add meg a negyzet 'a' oldalat szammal");
             string b = Console.ReadLine();
@@ -46,7 +44,6 @@ namespace _09_25_orai
 
             Console.WriteLine(hello);
 
-            Console.ReadKey();
 
 
 
@@ -85,8 +82,6 @@ namespace _09_25_orai
             var angolFormat = Convert.ToDouble("3.14", angolCulture);
             Console.WriteLine(angolFormat);
 
-            Console.ReadKey();
-
             Console.WriteLine("Menü program");
             Console.WriteLine("Opciók:");
             Console.WriteLine("A: Kis kávé, B: Nagy kávé");
@@ -111,8 +106,6 @@ namespace _09_25_orai
                 Console.WriteLine("Nem jó gombot nyomott!");
             }
 
-            Console.ReadKey();
-
             try
             {
                 string szoveg = "valami szöveg";
@@ -124,7 +117,6 @@ namespace _09_25_orai
             {
                 Console.WriteLine("Valami hiba történt: {0}", f.Message);
             }
-            Console.ReadKey();
 
 
 
@@ -151,7 +143,6 @@ namespace _09_25_orai
             finally
             {
                 Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
-                Console.ReadKey();
             }
 
 
@@ -164,8 +155,6 @@ namespace _09_25_orai
             var info = new StringInfo(teszt);
             Console.WriteLine("A szoveg valodi hossza: {0}", info.LengthInTextElements);
 
-            Console.ReadKey();
-
 
 
 
@@ -177,6 +166,7 @@ namespace _09_25_orai
             Console.WriteLine("A terulete a kornek: " + korTerulet(e) + " és a kerulete: " + korKerulet(e));
 
             Console.ReadKey();
+
         }
 
         static double korKerulet(double e)
@@ -190,6 +180,19 @@ namespace _09_25_orai
             double terulet = Math.Round(e * e * Math.PI, 2);
 
             return terulet;
+        }
+
+        static int Ter(int a)
+        {
+            int terulet = a * a;
+
+            return terulet;
+        }
+        static int Ker(int a)
+        {
+            int kerulet = a * 4;
+
+            return kerulet;
         }
     }
 }
