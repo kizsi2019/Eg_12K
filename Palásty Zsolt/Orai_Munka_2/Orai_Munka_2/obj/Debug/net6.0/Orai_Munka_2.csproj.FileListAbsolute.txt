@@ -1,0 +1,15 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\bin\Debug\net6.0\Orai_Munka_2.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\bin\Debug\net6.0\Orai_Munka_2.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\bin\Debug\net6.0\Orai_Munka_2.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\bin\Debug\net6.0\Orai_Munka_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\bin\Debug\net6.0\Orai_Munka_2.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\refint\Orai_Munka_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\Orai_Munka_2.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Orai_Munka_2\Orai_Munka_2\obj\Debug\net6.0\ref\Orai_Munka_2.dll
