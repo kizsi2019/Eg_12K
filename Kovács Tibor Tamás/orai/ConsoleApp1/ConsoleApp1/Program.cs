@@ -165,30 +165,82 @@ namespace gyakorlas
                 Console.WriteLine("Valami hiba történt: {0}", ex.Message);
             }*/
 
-            Console.WriteLine("Kettővel szorzó v. 1.0");
-            Console.WriteLine("Adjon meg egy egész páros számot!");
+            /* Console.WriteLine("Kettővel szorzó v. 1.0");
+             Console.WriteLine("Adjon meg egy egész páros számot!");
+             try
+             {
+                 var bevitel = Console.ReadLine();
+                 int szam = Convert.ToInt32(bevitel);
+
+                 if ((szam % 2) != 0)
+                 {
+                     throw new Exception("A szám nem páros");
+                 }
+                 Console.WriteLine($"A szorzás eredménye: {szam * 2}");
+
+             }
+             catch (Exception ex)
+             {
+                 Console.WriteLine("HIBA történt");
+                 Console.WriteLine(ex.Message);
+             }
+             finally
+             {
+                 Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
+                 Console.ReadKey();
+             }*/
+
+            /*Console.WriteLine("Add meg a négyzet oldalát");
             try
             {
-                var bevitel = Console.ReadLine();
-                int szam = Convert.ToInt32(bevitel);
+                int oldal = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(4 * oldal);
 
-                if ((szam % 2) != 0)
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine("Valami hiba történt: {0}", ex.Message);
+                throw;
+            }
+            Console.ReadKey();*/
+
+            /*Console.WriteLine("Goto példa. Kilépés: CTRL+C");
+            eleje:
+            Console.WriteLine("Add meg a neved");
+            var nev = Console.ReadLine();
+            Console.WriteLine($"Szia {nev}!");
+            goto eleje;*/
+
+            /*int szam = -1;
+            do
+            {
+                try
                 {
-                    throw new Exception("A szám nem páros");
+                    Console.WriteLine("Adjon meg egy 1 és 10 közötti páros számot!");
+                    string szoveg = Console.ReadLine();
+                    szam = Convert.ToInt32(szoveg);
                 }
-                Console.WriteLine($"A szorzás eredménye: {szam * 2}");
+                catch (Exception)
+                {
+                    szam = -1;
+                }
+            }
+            while ((szam < 1) || (szam > 10) || ((szam % 2) != 0));
 
-            }
-            catch (Exception ex)
+            Console.WriteLine("A megadott szám: {0}", szam);
+            Console.ReadKey();*/
+
+            var abc = "abcdefghijklmnopqrstuvwxyz";
+            foreach (var betu in abc)
             {
-                Console.WriteLine("HIBA történt");
-                Console.WriteLine(ex.Message);
+                Console.Write("{0}, ", betu);
             }
-            finally
-            {
-                Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
-                Console.ReadKey();
-            }
+            Console.ReadKey();
+
+
+
+
+
         }
     }
 }
