@@ -86,7 +86,7 @@ namespace gyakorlas
             Console.WriteLine(b);
             int a = Math.Max(2, 3);
             Console.WriteLine(a);
-           
+            
             double c = Math.Round(1.7345, 0);
             Console.WriteLine(c);
 
@@ -165,51 +165,62 @@ namespace gyakorlas
                 Console.WriteLine("Valami hiba történt: {0}", ex.Message);
             }*/
 
-            /* Console.WriteLine("Kettővel szorzó v. 1.0");
-             Console.WriteLine("Adjon meg egy egész páros számot!");
-             try
-             {
-                 var bevitel = Console.ReadLine();
-                 int szam = Convert.ToInt32(bevitel);
-
-                 if ((szam % 2) != 0)
-                 {
-                     throw new Exception("A szám nem páros");
-                 }
-                 Console.WriteLine($"A szorzás eredménye: {szam * 2}");
-
-             }
-             catch (Exception ex)
-             {
-                 Console.WriteLine("HIBA történt");
-                 Console.WriteLine(ex.Message);
-             }
-             finally
-             {
-                 Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
-                 Console.ReadKey();
-             }*/
-
-            /*Console.WriteLine("Add meg a négyzet oldalát");
+            /*Console.WriteLine("Kettővel szorzó v. 1.0");
+            Console.WriteLine("Adjon meg egy egész páros számot!");
             try
             {
-                int oldal = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine(4 * oldal);
+                var bevitel = Console.ReadLine();
+                int szam = Convert.ToInt32(bevitel);
+
+                if ((szam % 2) != 0)
+                {
+                    throw new Exception("A szám nem páros");
+                }
+                Console.WriteLine($"A szorzás eredménye: {szam * 2}");
 
             }
-            catch(FormatException ex)
+            catch (Exception ex)
+            {
+                Console.WriteLine("HIBA történt");
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Program vége. Nyomjon egy gombot a kilépéshez");
+                Console.ReadKey();
+            }*/
+
+            /*Console.WriteLine("Add meg a négyzet oldalát: ");
+            try
+            {
+                var a = Console.ReadLine();
+                int kerulet = Convert.ToInt32(a) * 4;
+                int terulet = Convert.ToInt32(a) * Convert.ToInt32(a);
+                Console.WriteLine(kerulet, terulet);
+            }
+            catch (FormatException ex)
             {
                 Console.WriteLine("Valami hiba történt: {0}", ex.Message);
-                throw;
             }
             Console.ReadKey();*/
 
             /*Console.WriteLine("Goto példa. Kilépés: CTRL+C");
-            eleje:
-            Console.WriteLine("Add meg a neved");
+        eleje:
+            Console.WriteLine("Add meg a neved!");
             var nev = Console.ReadLine();
             Console.WriteLine($"Szia {nev}!");
             goto eleje;*/
+
+            /*for (int i = 8; i < 100; i+=8)
+            {
+                Console.WriteLine(i);
+            }*/
+
+            /*int i = 10;
+            while (i-- > 0)
+            {
+                Console.WriteLine(i);
+            }*/
 
             /*int szam = -1;
             do
@@ -227,20 +238,75 @@ namespace gyakorlas
             }
             while ((szam < 1) || (szam > 10) || ((szam % 2) != 0));
 
-            Console.WriteLine("A megadott szám: {0}", szam);
-            Console.ReadKey();*/
+            Console.WriteLine("A megadott szám: {0}", szam);*/
 
-            var abc = "abcdefghijklmnopqrstuvwxyz";
-            foreach (var betu in abc)
+            /*Console.WriteLine("Break példa");
+            for (int i = 0; i < 100; i++)
             {
-                Console.Write("{0}, ", betu);
+                Console.Write("{0} ", i);
+                if (i == 10)
+                {
+                    break;
+                }
+            }
+
+            Console.WriteLine("Continue példa");
+            int j = 30;
+            while (j-- > 0)
+            {
+                if (j % 3 == 0)
+                {
+                    continue;
+                }
+                Console.Write("{0} ", j);
+            }*/
+
+            /*var gyumolcsok = new string[]
+            {
+                "alma", "körte", "szilva"
+            };
+
+            var bevitelek = new string[3];
+
+            for (int i = 0; i < bevitelek.Length; i++)
+            {
+                Console.WriteLine("{0}. bevitel: ", i);
+                bevitelek[i] = Console.ReadLine();
+            }
+
+            foreach (var gyumolcs in gyumolcsok)
+            {
+                Console.WriteLine(gyumolcs);
+            }
+            foreach (var bevitel in bevitelek)
+            {
+                Console.WriteLine(bevitel);
+            }*/
+
+            var tomb2d = new int[,]
+            {
+                { 1, 2, 3 },
+                { 4, 5, 6 },
+                { 7, 8, 9 }
+            };
+
+            Console.WriteLine("Bejárás for ciklusokkal");
+            //A length tulajdonság itt nem használható
+            //mivel a tömb 2d kiterjedésű. 
+            for (int i = 0; i < tomb2d.GetLength(0); i++)
+            {
+                for (int j = 0; j < tomb2d.GetLength(1); j++)
+                {
+                    Console.Write("{0} ", tomb2d[i, j]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("Bejárás foreach ciklusokkal");
+            foreach (var elem in tomb2d)
+            {
+                Console.Write("{0} ", elem);
             }
             Console.ReadKey();
-
-
-
-
-
         }
     }
 }
