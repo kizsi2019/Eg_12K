@@ -1,0 +1,7 @@
+H:\2023-2024\visual\lista\lista\bin\Debug\lista.exe.config
+H:\2023-2024\visual\lista\lista\bin\Debug\lista.exe
+H:\2023-2024\visual\lista\lista\bin\Debug\lista.pdb
+H:\2023-2024\visual\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+H:\2023-2024\visual\lista\lista\obj\Debug\lista.exe
+H:\2023-2024\visual\lista\lista\obj\Debug\lista.pdb
+H:\2023-2024\visual\lista\lista\obj\Debug\lista.csproj.AssemblyReference.cache
