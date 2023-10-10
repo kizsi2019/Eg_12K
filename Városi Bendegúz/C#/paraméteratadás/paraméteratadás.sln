@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paraméteratadás", "paraméteratadás\paraméteratadás.csproj", "{07D3A3CE-741E-41FD-8A9D-C7BB43F5498F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D3A3CE-741E-41FD-8A9D-C7BB43F5498F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D3A3CE-741E-41FD-8A9D-C7BB43F5498F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D3A3CE-741E-41FD-8A9D-C7BB43F5498F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D3A3CE-741E-41FD-8A9D-C7BB43F5498F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9592D1-AB69-4FAF-B73C-94CC91F5A516}
+	EndGlobalSection
+EndGlobal
