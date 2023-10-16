@@ -1,0 +1,15 @@
+C:\Users\Simens\source\repos\Verem\Verem\bin\Debug\net6.0\Verem.exe
+C:\Users\Simens\source\repos\Verem\Verem\bin\Debug\net6.0\Verem.deps.json
+C:\Users\Simens\source\repos\Verem\Verem\bin\Debug\net6.0\Verem.runtimeconfig.json
+C:\Users\Simens\source\repos\Verem\Verem\bin\Debug\net6.0\Verem.dll
+C:\Users\Simens\source\repos\Verem\Verem\bin\Debug\net6.0\Verem.pdb
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.csproj.AssemblyReference.cache
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.AssemblyInfoInputs.cache
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.AssemblyInfo.cs
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.csproj.CoreCompileInputs.cache
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.dll
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\refint\Verem.dll
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.pdb
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\Verem.genruntimeconfig.cache
+C:\Users\Simens\source\repos\Verem\Verem\obj\Debug\net6.0\ref\Verem.dll
