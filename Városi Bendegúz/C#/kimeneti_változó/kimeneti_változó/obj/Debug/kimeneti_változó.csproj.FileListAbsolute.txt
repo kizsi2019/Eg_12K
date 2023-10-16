@@ -1,7 +1,0 @@
-H:\info\12K\kimeneti_változó\kimeneti_változó\bin\Debug\kimeneti_változó.exe.config
-H:\info\12K\kimeneti_változó\kimeneti_változó\bin\Debug\kimeneti_változó.exe
-H:\info\12K\kimeneti_változó\kimeneti_változó\bin\Debug\kimeneti_változó.pdb
-H:\info\12K\kimeneti_változó\kimeneti_változó\obj\Debug\kimeneti_változó.csproj.AssemblyReference.cache
-H:\info\12K\kimeneti_változó\kimeneti_változó\obj\Debug\kimeneti_változó.csproj.CoreCompileInputs.cache
-H:\info\12K\kimeneti_változó\kimeneti_változó\obj\Debug\kimeneti_változó.exe
-H:\info\12K\kimeneti_változó\kimeneti_változó\obj\Debug\kimeneti_változó.pdb

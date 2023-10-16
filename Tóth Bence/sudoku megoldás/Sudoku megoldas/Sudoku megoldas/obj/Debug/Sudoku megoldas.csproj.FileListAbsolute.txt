@@ -1,7 +1,0 @@
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.exe.config
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.exe
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\bin\Debug\Sudoku megoldas.pdb
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.csproj.AssemblyReference.cache
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.csproj.CoreCompileInputs.cache
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.exe
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\sudoku megoldás\Sudoku megoldas\Sudoku megoldas\obj\Debug\Sudoku megoldas.pdb

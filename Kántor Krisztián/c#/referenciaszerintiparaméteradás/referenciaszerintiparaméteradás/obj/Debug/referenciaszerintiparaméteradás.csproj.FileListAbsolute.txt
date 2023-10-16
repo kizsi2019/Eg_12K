@@ -1,6 +1,0 @@
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\bin\Debug\referenciaszerintiparaméteradás.exe.config
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\bin\Debug\referenciaszerintiparaméteradás.exe
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\bin\Debug\referenciaszerintiparaméteradás.pdb
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\obj\Debug\referenciaszerintiparaméteradás.csproj.CoreCompileInputs.cache
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\obj\Debug\referenciaszerintiparaméteradás.exe
-H:\2023-2024\visual\referenciaszerintiparaméteradás\referenciaszerintiparaméteradás\obj\Debug\referenciaszerintiparaméteradás.pdb

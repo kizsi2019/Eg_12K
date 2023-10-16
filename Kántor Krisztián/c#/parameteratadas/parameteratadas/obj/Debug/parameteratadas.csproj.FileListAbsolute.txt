@@ -1,7 +1,0 @@
-H:\2023-2024\visual\parameteratadas\parameteratadas\bin\Debug\parameteratadas.exe.config
-H:\2023-2024\visual\parameteratadas\parameteratadas\bin\Debug\parameteratadas.exe
-H:\2023-2024\visual\parameteratadas\parameteratadas\bin\Debug\parameteratadas.pdb
-H:\2023-2024\visual\parameteratadas\parameteratadas\obj\Debug\parameteratadas.csproj.AssemblyReference.cache
-H:\2023-2024\visual\parameteratadas\parameteratadas\obj\Debug\parameteratadas.csproj.CoreCompileInputs.cache
-H:\2023-2024\visual\parameteratadas\parameteratadas\obj\Debug\parameteratadas.exe
-H:\2023-2024\visual\parameteratadas\parameteratadas\obj\Debug\parameteratadas.pdb

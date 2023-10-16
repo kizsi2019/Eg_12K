@@ -1,8 +1,0 @@
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\bin\Debug\09_12.exe.config
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\bin\Debug\09_12.exe
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\bin\Debug\09_12.pdb
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\obj\Debug\09_12.csproj.AssemblyReference.cache
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\obj\Debug\09_12.csproj.SuggestedBindingRedirects.cache
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\obj\Debug\09_12.csproj.CoreCompileInputs.cache
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\obj\Debug\09_12.exe
-C:\Users\okvik\Documents\Programozás projektek\C#\2023-24\Orai\09_12\09_12\obj\Debug\09_12.pdb

@@ -1,6 +1,0 @@
-H:\info\12K\LISTA\LISTA\bin\Debug\LISTA.exe.config
-H:\info\12K\LISTA\LISTA\bin\Debug\LISTA.exe
-H:\info\12K\LISTA\LISTA\bin\Debug\LISTA.pdb
-H:\info\12K\LISTA\LISTA\obj\Debug\LISTA.csproj.CoreCompileInputs.cache
-H:\info\12K\LISTA\LISTA\obj\Debug\LISTA.exe
-H:\info\12K\LISTA\LISTA\obj\Debug\LISTA.pdb
