@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\obj\Debug\Listaxx2.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\obj\Debug\Listaxx2.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\bin\Debug\Listaxx2.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\bin\Debug\Listaxx2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\bin\Debug\Listaxx2.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\obj\Debug\Listaxx2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Listaxx2\Listaxx2\obj\Debug\Listaxx2.pdb
