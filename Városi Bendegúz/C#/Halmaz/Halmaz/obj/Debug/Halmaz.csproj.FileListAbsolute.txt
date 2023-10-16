@@ -1,0 +1,6 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\bin\Debug\Halmaz.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\bin\Debug\Halmaz.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\bin\Debug\Halmaz.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\obj\Debug\Halmaz.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\obj\Debug\Halmaz.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Halmaz\Halmaz\obj\Debug\Halmaz.pdb
