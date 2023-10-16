@@ -1,0 +1,15 @@
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.csproj.AssemblyReference.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.AssemblyInfoInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.AssemblyInfo.cs
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.csproj.CoreCompileInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\bin\Debug\net6.0\gyakorlas.exe
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\bin\Debug\net6.0\gyakorlas.deps.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\bin\Debug\net6.0\gyakorlas.runtimeconfig.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\bin\Debug\net6.0\gyakorlas.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\bin\Debug\net6.0\gyakorlas.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\refint\gyakorlas.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\gyakorlas.genruntimeconfig.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\gyakorlas\gyakorlas\obj\Debug\net6.0\ref\gyakorlas.dll
