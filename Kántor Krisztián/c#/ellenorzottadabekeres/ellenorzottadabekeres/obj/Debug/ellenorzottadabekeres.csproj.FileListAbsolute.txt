@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\bin\Debug\ellenorzottadabekeres.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\bin\Debug\ellenorzottadabekeres.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\bin\Debug\ellenorzottadabekeres.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\obj\Debug\ellenorzottadabekeres.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\obj\Debug\ellenorzottadabekeres.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\obj\Debug\ellenorzottadabekeres.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\ellenorzottadabekeres\ellenorzottadabekeres\obj\Debug\ellenorzottadabekeres.csproj.AssemblyReference.cache
