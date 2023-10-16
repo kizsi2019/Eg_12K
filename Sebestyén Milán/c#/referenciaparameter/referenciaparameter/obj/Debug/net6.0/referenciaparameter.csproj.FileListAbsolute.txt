@@ -1,0 +1,15 @@
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\bin\Debug\net6.0\referenciaparameter.exe
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\bin\Debug\net6.0\referenciaparameter.deps.json
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\bin\Debug\net6.0\referenciaparameter.runtimeconfig.json
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\bin\Debug\net6.0\referenciaparameter.dll
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\bin\Debug\net6.0\referenciaparameter.pdb
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.csproj.AssemblyReference.cache
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.AssemblyInfoInputs.cache
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.AssemblyInfo.cs
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.csproj.CoreCompileInputs.cache
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.dll
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\refint\referenciaparameter.dll
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.pdb
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\referenciaparameter.genruntimeconfig.cache
+C:\new\visual studio\programmozas\referenciaparameter\referenciaparameter\obj\Debug\net6.0\ref\referenciaparameter.dll
