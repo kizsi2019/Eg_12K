@@ -1,0 +1,7 @@
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
