@@ -1,0 +1,7 @@
+H:\12_asztali\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+H:\12_asztali\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+H:\12_asztali\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+H:\12_asztali\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+H:\12_asztali\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+H:\12_asztali\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+H:\12_asztali\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
