@@ -1,7 +1,0 @@
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe.config
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.pdb
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csproj.AssemblyReference.cache
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csproj.CoreCompileInputs.cache
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.exe
-C:\Users\kiss.zsigmond\Desktop\Github12K\Eg_12K\Kiss Zsigmond\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.pdb

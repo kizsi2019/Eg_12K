@@ -1,6 +1,0 @@
-H:\12_asztali\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe.config
-H:\12_asztali\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe
-H:\12_asztali\LancoltLista\LancoltLista\bin\Debug\LancoltLista.pdb
-H:\12_asztali\LancoltLista\LancoltLista\obj\Debug\LancoltLista.csproj.CoreCompileInputs.cache
-H:\12_asztali\LancoltLista\LancoltLista\obj\Debug\LancoltLista.exe
-H:\12_asztali\LancoltLista\LancoltLista\obj\Debug\LancoltLista.pdb

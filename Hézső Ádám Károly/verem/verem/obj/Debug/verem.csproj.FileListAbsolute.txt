@@ -1,6 +1,0 @@
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\bin\Debug\verem.exe.config
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\bin\Debug\verem.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\bin\Debug\verem.pdb
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\obj\Debug\verem.csproj.CoreCompileInputs.cache
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\obj\Debug\verem.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\verem\verem\obj\Debug\verem.pdb

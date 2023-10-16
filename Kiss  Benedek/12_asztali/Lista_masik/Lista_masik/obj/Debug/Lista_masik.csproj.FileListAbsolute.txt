@@ -1,7 +1,0 @@
-H:\12_asztali\Lista_masik\Lista_masik\bin\Debug\Lista_masik.exe.config
-H:\12_asztali\Lista_masik\Lista_masik\bin\Debug\Lista_masik.exe
-H:\12_asztali\Lista_masik\Lista_masik\bin\Debug\Lista_masik.pdb
-H:\12_asztali\Lista_masik\Lista_masik\obj\Debug\Lista_masik.csproj.AssemblyReference.cache
-H:\12_asztali\Lista_masik\Lista_masik\obj\Debug\Lista_masik.csproj.CoreCompileInputs.cache
-H:\12_asztali\Lista_masik\Lista_masik\obj\Debug\Lista_masik.exe
-H:\12_asztali\Lista_masik\Lista_masik\obj\Debug\Lista_masik.pdb
