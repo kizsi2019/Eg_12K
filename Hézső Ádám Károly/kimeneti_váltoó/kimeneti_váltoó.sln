@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimeneti_váltoó", "kimeneti_váltoó\kimeneti_váltoó.csproj", "{CAB6D8F1-CB44-42A2-A76C-50AEED4AE78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB6D8F1-CB44-42A2-A76C-50AEED4AE78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB6D8F1-CB44-42A2-A76C-50AEED4AE78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB6D8F1-CB44-42A2-A76C-50AEED4AE78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB6D8F1-CB44-42A2-A76C-50AEED4AE78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2B1CF6-347C-462C-B71B-FAE0CC160565}
+	EndGlobalSection
+EndGlobal

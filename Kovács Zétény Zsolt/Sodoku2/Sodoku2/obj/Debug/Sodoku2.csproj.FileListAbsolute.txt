@@ -1,0 +1,7 @@
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\bin\Debug\Sodoku2.exe.config
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\bin\Debug\Sodoku2.exe
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\bin\Debug\Sodoku2.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\obj\Debug\Sodoku2.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\obj\Debug\Sodoku2.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\obj\Debug\Sodoku2.exe
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Sodoku2\Sodoku2\obj\Debug\Sodoku2.pdb

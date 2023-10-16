@@ -1,0 +1,14 @@
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+C:\Users\varosi.bendeguz\Desktop\GitHub\.git\Eg_12K\Városi Bendegúz\C#\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb

@@ -1,0 +1,6 @@
+H:\2023-2024\visual\osszegzo\osszegzo\bin\Debug\osszegzo.exe.config
+H:\2023-2024\visual\osszegzo\osszegzo\bin\Debug\osszegzo.exe
+H:\2023-2024\visual\osszegzo\osszegzo\bin\Debug\osszegzo.pdb
+H:\2023-2024\visual\osszegzo\osszegzo\obj\Debug\osszegzo.csproj.CoreCompileInputs.cache
+H:\2023-2024\visual\osszegzo\osszegzo\obj\Debug\osszegzo.exe
+H:\2023-2024\visual\osszegzo\osszegzo\obj\Debug\osszegzo.pdb

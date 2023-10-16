@@ -1,0 +1,43 @@
+@startuml
+
+skin rose
+
+[MainForm]
+[Nevjegy]
+[MyGroup]
+
+[View]
+[Model]
+[Persistence]
+
+[Items]
+[Rendelesek]
+[Menu]
+
+interface IModel
+interface IPersistence 
+
+[Model] -- IModel
+[Persistence] -- IPersistence
+
+MainForm <.. View
+
+Nevjegy <.. View
+
+MyGroup <.. View
+
+View <.. Model
+
+Model <.. Persistence
+
+Model <.. Items
+Persistence <.. Items
+
+View <.. Rendelesek
+Model <.. Rendelesek
+Persistence <.. Rendelesek
+
+Model <.. Menu
+View <.. Menu
+
+@enduml

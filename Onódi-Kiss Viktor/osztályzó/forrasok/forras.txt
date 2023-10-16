@@ -1,0 +1,21 @@
+﻿Azonosító;Ételnév;Étel kategória;Ár(ft)
+L01;Karfiolkrémleves;leves;950
+F01;Cigánypecsenye;főétel;1400
+L02;Húsleves;leves;1000
+F02;Tejfölös rakott ceruzabab;főétel;1250
+L03;Tárkonyos csirkeraguleves;leves;950
+F03;Paprikás burgonya házi sült kolbásszal;főétel;1150
+L04;Sárgaborsó krémleves;leves;1000
+F04;Borzas sertéskaraj;főétel;1250
+L05;Zöldborsóleves;leves;950
+F05;Kelkáposzta főzelék;főétel;1000
+L06;Gombócos csorba leves;leves;1150
+F06;Máglyarakás;főétel;1100
+L07;Hagymaleves;leves;950
+F07;Paprikás krumpli;főétel;1100
+L08;Babgulyás;leves;1250
+F08;Tanyasi csirkepörkölt;főétel;1150
+L09;Paradicsomleves;leves;900
+F09;Bolognai spagetti;főétel;1250
+L10;Tojásleves;leves;900
+F10;Töltött paprika paradicsommártással;főétel;1150
