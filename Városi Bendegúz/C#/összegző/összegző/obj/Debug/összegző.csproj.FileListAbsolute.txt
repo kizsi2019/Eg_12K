@@ -1,0 +1,6 @@
+H:\info\12K\összegző\összegző\bin\Debug\összegző.exe.config
+H:\info\12K\összegző\összegző\bin\Debug\összegző.exe
+H:\info\12K\összegző\összegző\bin\Debug\összegző.pdb
+H:\info\12K\összegző\összegző\obj\Debug\összegző.csproj.CoreCompileInputs.cache
+H:\info\12K\összegző\összegző\obj\Debug\összegző.exe
+H:\info\12K\összegző\összegző\obj\Debug\összegző.pdb
