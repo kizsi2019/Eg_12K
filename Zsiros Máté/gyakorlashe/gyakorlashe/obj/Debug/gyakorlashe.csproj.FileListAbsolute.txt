@@ -1,0 +1,7 @@
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\bin\Debug\gyakorlashe.exe.config
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\bin\Debug\gyakorlashe.exe
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\bin\Debug\gyakorlashe.pdb
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\obj\Debug\gyakorlashe.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\obj\Debug\gyakorlashe.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\obj\Debug\gyakorlashe.exe
+C:\Users\Zsiros.Mate.Ferenc\source\repos\gyakorlashe\gyakorlashe\obj\Debug\gyakorlashe.pdb
