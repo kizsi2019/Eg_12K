@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\bin\Debug\sor.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\bin\Debug\sor.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\bin\Debug\sor.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\obj\Debug\sor.csproj.AssemblyReference.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\obj\Debug\sor.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\obj\Debug\sor.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\sor\sor\obj\Debug\sor.pdb

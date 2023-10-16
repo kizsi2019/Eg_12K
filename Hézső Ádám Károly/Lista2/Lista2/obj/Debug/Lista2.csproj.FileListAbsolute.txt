@@ -1,0 +1,7 @@
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\bin\Debug\Lista2.exe.config
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\bin\Debug\Lista2.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\bin\Debug\Lista2.pdb
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\obj\Debug\Lista2.csproj.AssemblyReference.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\obj\Debug\Lista2.csproj.CoreCompileInputs.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\obj\Debug\Lista2.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\Lista2\Lista2\obj\Debug\Lista2.pdb

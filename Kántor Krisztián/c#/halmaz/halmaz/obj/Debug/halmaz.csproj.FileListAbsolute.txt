@@ -1,0 +1,6 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\bin\Debug\halmaz.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\bin\Debug\halmaz.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\bin\Debug\halmaz.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\obj\Debug\halmaz.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\obj\Debug\halmaz.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\halmaz\halmaz\obj\Debug\halmaz.pdb

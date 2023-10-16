@@ -1,0 +1,6 @@
+H:\12_asztali\Verem\Verem\bin\Debug\Verem.exe.config
+H:\12_asztali\Verem\Verem\bin\Debug\Verem.exe
+H:\12_asztali\Verem\Verem\bin\Debug\Verem.pdb
+H:\12_asztali\Verem\Verem\obj\Debug\Verem.csproj.CoreCompileInputs.cache
+H:\12_asztali\Verem\Verem\obj\Debug\Verem.exe
+H:\12_asztali\Verem\Verem\obj\Debug\Verem.pdb
