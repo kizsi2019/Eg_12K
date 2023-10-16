@@ -1,7 +1,0 @@
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\bin\Debug\sor.exe.config
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\bin\Debug\sor.exe
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\bin\Debug\sor.pdb
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\obj\Debug\sor.csproj.AssemblyReference.cache
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\obj\Debug\sor.csproj.CoreCompileInputs.cache
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\obj\Debug\sor.exe
-C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\lista\sor\sor\obj\Debug\sor.pdb

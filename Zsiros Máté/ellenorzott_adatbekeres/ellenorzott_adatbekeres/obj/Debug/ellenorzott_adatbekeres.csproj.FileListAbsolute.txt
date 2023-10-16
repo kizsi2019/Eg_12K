@@ -1,7 +1,0 @@
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.exe.config
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.exe
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.pdb
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.csproj.AssemblyReference.cache
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.csproj.CoreCompileInputs.cache
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.exe
-C:\Users\Zsiros.Mate.Ferenc\source\repos\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.pdb

@@ -1,7 +1,0 @@
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
-C:\Users\Toth.bence\Desktop\github\Eg_12K\Tóth Bence\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb

@@ -1,7 +1,0 @@
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\bin\Debug\Gyakorlas2.exe.config
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\bin\Debug\Gyakorlas2.exe
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\bin\Debug\Gyakorlas2.pdb
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\obj\Debug\Gyakorlas2.csproj.AssemblyReference.cache
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\obj\Debug\Gyakorlas2.csproj.CoreCompileInputs.cache
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\obj\Debug\Gyakorlas2.exe
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\Gyakorlas2\Gyakorlas2\obj\Debug\Gyakorlas2.pdb

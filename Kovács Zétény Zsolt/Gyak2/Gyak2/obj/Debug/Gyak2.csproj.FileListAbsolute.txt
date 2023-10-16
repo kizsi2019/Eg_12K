@@ -1,7 +1,0 @@
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\bin\Debug\Gyak2.exe.config
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\bin\Debug\Gyak2.exe
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\bin\Debug\Gyak2.pdb
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\obj\Debug\Gyak2.csproj.AssemblyReference.cache
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\obj\Debug\Gyak2.csproj.CoreCompileInputs.cache
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\obj\Debug\Gyak2.exe
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Gyak2\Gyak2\obj\Debug\Gyak2.pdb

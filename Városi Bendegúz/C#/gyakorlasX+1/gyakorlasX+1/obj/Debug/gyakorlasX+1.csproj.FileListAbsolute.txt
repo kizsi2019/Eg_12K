@@ -1,7 +1,0 @@
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\bin\Debug\gyakorlasX+1.exe.config
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\bin\Debug\gyakorlasX+1.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\bin\Debug\gyakorlasX+1.pdb
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\obj\Debug\gyakorlasX+1.csproj.AssemblyReference.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\obj\Debug\gyakorlasX+1.csproj.CoreCompileInputs.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\obj\Debug\gyakorlasX+1.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\gyakorlasX+1\gyakorlasX+1\obj\Debug\gyakorlasX+1.pdb

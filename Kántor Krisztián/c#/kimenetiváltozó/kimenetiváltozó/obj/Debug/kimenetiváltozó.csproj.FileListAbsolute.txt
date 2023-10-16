@@ -1,7 +1,0 @@
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\bin\Debug\kimenetiváltozó.exe.config
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\bin\Debug\kimenetiváltozó.exe
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\bin\Debug\kimenetiváltozó.pdb
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\obj\Debug\kimenetiváltozó.csproj.AssemblyReference.cache
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\obj\Debug\kimenetiváltozó.csproj.CoreCompileInputs.cache
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\obj\Debug\kimenetiváltozó.exe
-H:\2023-2024\visual\kimenetiváltozó\kimenetiváltozó\obj\Debug\kimenetiváltozó.pdb

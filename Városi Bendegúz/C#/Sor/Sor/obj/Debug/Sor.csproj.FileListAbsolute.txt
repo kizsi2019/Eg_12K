@@ -1,7 +1,0 @@
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\bin\Debug\Sor.exe.config
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\bin\Debug\Sor.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\bin\Debug\Sor.pdb
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\obj\Debug\Sor.csproj.AssemblyReference.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\obj\Debug\Sor.csproj.CoreCompileInputs.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\obj\Debug\Sor.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Sor\Sor\obj\Debug\Sor.pdb

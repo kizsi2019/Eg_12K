@@ -1,6 +1,0 @@
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\bin\Debug\Halmaz.exe.config
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\bin\Debug\Halmaz.exe
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\bin\Debug\Halmaz.pdb
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\obj\Debug\Halmaz.csproj.CoreCompileInputs.cache
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\obj\Debug\Halmaz.exe
-C:\Users\Kovacs.Zeteny.Zsolt\source\repos\Halmaz\Halmaz\obj\Debug\Halmaz.pdb

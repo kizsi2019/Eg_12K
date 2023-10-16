@@ -1,6 +1,0 @@
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\bin\Debug\lista2.exe.config
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\bin\Debug\lista2.exe
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\bin\Debug\lista2.pdb
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\obj\Debug\lista2.csproj.CoreCompileInputs.cache
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\obj\Debug\lista2.exe
-C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\lista2\lista2\obj\Debug\lista2.pdb

@@ -1,7 +1,0 @@
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe.config
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.pdb
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.exe
-C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\Szúdoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.pdb

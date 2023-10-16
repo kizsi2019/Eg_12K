@@ -1,7 +1,0 @@
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\bin\Debug\szudoku.exe.config
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\bin\Debug\szudoku.exe
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\bin\Debug\szudoku.pdb
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\obj\Debug\szudokuCLI.csproj.AssemblyReference.cache
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\obj\Debug\szudokuCLI.csproj.CoreCompileInputs.cache
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\obj\Debug\szudoku.exe
-C:\Users\koncz.akos\Desktop\GitHub\Eg_12K\Koncz Ákos\szudoku2\szudoku\obj\Debug\szudoku.pdb

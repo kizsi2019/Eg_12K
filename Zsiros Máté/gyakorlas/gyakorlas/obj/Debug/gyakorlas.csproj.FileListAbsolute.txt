@@ -1,7 +1,0 @@
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
-H:\github\Eg_12K\Zsiros Máté\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb

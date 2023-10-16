@@ -1,7 +1,0 @@
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\bin\Debug\sudoku.exe.config
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\bin\Debug\sudoku.exe
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\bin\Debug\sudoku.pdb
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\obj\Debug\sudoku.exe
-H:\github\Eg_12K\Zsiros Máté\sudokuMegoldas\sudokuCLI\sudoku\sudoku\obj\Debug\sudoku.pdb
