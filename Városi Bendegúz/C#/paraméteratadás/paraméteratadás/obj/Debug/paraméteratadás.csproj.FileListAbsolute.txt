@@ -1,0 +1,7 @@
+H:\info\12K\paraméteratadás\paraméteratadás\bin\Debug\paraméteratadás.exe.config
+H:\info\12K\paraméteratadás\paraméteratadás\bin\Debug\paraméteratadás.exe
+H:\info\12K\paraméteratadás\paraméteratadás\bin\Debug\paraméteratadás.pdb
+H:\info\12K\paraméteratadás\paraméteratadás\obj\Debug\paraméteratadás.csproj.AssemblyReference.cache
+H:\info\12K\paraméteratadás\paraméteratadás\obj\Debug\paraméteratadás.csproj.CoreCompileInputs.cache
+H:\info\12K\paraméteratadás\paraméteratadás\obj\Debug\paraméteratadás.exe
+H:\info\12K\paraméteratadás\paraméteratadás\obj\Debug\paraméteratadás.pdb
