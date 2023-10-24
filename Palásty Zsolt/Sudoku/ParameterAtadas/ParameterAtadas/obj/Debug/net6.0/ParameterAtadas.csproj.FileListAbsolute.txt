@@ -1,0 +1,15 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\bin\Debug\net6.0\ParameterAtadas.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\bin\Debug\net6.0\ParameterAtadas.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\bin\Debug\net6.0\ParameterAtadas.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\bin\Debug\net6.0\ParameterAtadas.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\bin\Debug\net6.0\ParameterAtadas.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\refint\ParameterAtadas.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ParameterAtadas.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\ParameterAtadas\ParameterAtadas\obj\Debug\net6.0\ref\ParameterAtadas.dll

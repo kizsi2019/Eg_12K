@@ -1,0 +1,6 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\bin\Debug\Ellenorzott_adatbekeres.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\bin\Debug\Ellenorzott_adatbekeres.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\bin\Debug\Ellenorzott_adatbekeres.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\obj\Debug\Ellenorzott_adatbekeres.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\obj\Debug\Ellenorzott_adatbekeres.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Ellenorzott_adatbekeres\Ellenorzott_adatbekeres\obj\Debug\Ellenorzott_adatbekeres.pdb

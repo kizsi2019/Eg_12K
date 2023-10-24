@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\obj\Debug\ellenorzoadatbekeres.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\bin\Debug\ellenorzoadatbekeres.exe.config
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\bin\Debug\ellenorzoadatbekeres.exe
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\bin\Debug\ellenorzoadatbekeres.pdb
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\obj\Debug\ellenorzoadatbekeres.exe
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\obj\Debug\ellenorzoadatbekeres.pdb
+C:\Users\koncz.akos\source\repos\ellenorzoadatbekeres\obj\Debug\ellenorzoadatbekeres.csproj.AssemblyReference.cache
