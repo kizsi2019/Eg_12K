@@ -1,0 +1,29 @@
+
+body{
+    background-color: #fbefdb;
+}
+nav{
+    background-color: #1f5b25;
+    padding: 15px;
+    position:fixed;
+}
+nav a{
+    color:white;
+    margin: 15px;
+}
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+nav a:first-child{
+    font-size: 1.em;
+}
+nav a:first-child img{
+    width: 40px;
+}
+.banner{
+    background-image: url(../img/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
