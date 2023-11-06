@@ -1,0 +1,7 @@
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\bin\Debug\dolgozat1.exe.config
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\bin\Debug\dolgozat1.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\bin\Debug\dolgozat1.pdb
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\obj\Debug\dolgozat1.csproj.AssemblyReference.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\obj\Debug\dolgozat1.csproj.CoreCompileInputs.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\obj\Debug\dolgozat1.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\dolgozat1\dolgozat1\obj\Debug\dolgozat1.pdb
