@@ -1,7 +1,0 @@
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\bin\Debug\gyakorlasokba.exe.config
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\bin\Debug\gyakorlasokba.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\bin\Debug\gyakorlasokba.pdb
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\obj\Debug\gyakorlasokba.csproj.AssemblyReference.cache
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\obj\Debug\gyakorlasokba.csproj.CoreCompileInputs.cache
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\obj\Debug\gyakorlasokba.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\gyakorlasokba\gyakorlasokba\obj\Debug\gyakorlasokba.pdb

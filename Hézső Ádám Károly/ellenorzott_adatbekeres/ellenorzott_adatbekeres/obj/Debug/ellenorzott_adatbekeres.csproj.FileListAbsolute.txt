@@ -1,6 +1,0 @@
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.csproj.CoreCompileInputs.cache
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.exe.config
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\bin\Debug\ellenorzott_adatbekeres.pdb
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\ellenorzott_adatbekeres\ellenorzott_adatbekeres\obj\Debug\ellenorzott_adatbekeres.pdb
