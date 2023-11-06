@@ -1,0 +1,6 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\bin\Debug\Lancol Lista.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\bin\Debug\Lancol Lista.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\bin\Debug\Lancol Lista.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\obj\Debug\Lancol Lista.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\obj\Debug\Lancol Lista.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Lancol Lista\Lancol Lista\obj\Debug\Lancol Lista.pdb
