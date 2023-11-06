@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\bin\Debug\Dolgozat2.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\bin\Debug\Dolgozat2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\bin\Debug\Dolgozat2.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\obj\Debug\Dolgozat2.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\obj\Debug\Dolgozat2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\obj\Debug\Dolgozat2.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Dolgozat2\Dolgozat2\obj\Debug\Dolgozat2.csproj.AssemblyReference.cache

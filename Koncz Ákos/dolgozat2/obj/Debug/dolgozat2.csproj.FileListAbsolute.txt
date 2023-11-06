@@ -1,0 +1,6 @@
+C:\Users\koncz.akos\source\repos\dolgozat2\bin\Debug\dolgozat2.exe.config
+C:\Users\koncz.akos\source\repos\dolgozat2\bin\Debug\dolgozat2.exe
+C:\Users\koncz.akos\source\repos\dolgozat2\bin\Debug\dolgozat2.pdb
+C:\Users\koncz.akos\source\repos\dolgozat2\obj\Debug\dolgozat2.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\source\repos\dolgozat2\obj\Debug\dolgozat2.exe
+C:\Users\koncz.akos\source\repos\dolgozat2\obj\Debug\dolgozat2.pdb

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Simens\\.nuget\\packages\\": {},
+    "C:\\Users\\zsigm\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Practice_1\\Practice_1\\Practice_1.csproj",
+      "projectUniqueName": "C:\\Users\\zsigm\\OneDrive\\Asztali gép\\Github\\Egressy\\Eg_12K\\Palásty Zsolt\\C#\\Practice_1\\Practice_1\\Practice_1.csproj",
       "projectName": "Practice_1",
-      "projectPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Practice_1\\Practice_1\\Practice_1.csproj",
-      "packagesPath": "C:\\Users\\Simens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Practice_1\\Practice_1\\obj\\",
+      "projectPath": "C:\\Users\\zsigm\\OneDrive\\Asztali gép\\Github\\Egressy\\Eg_12K\\Palásty Zsolt\\C#\\Practice_1\\Practice_1\\Practice_1.csproj",
+      "packagesPath": "C:\\Users\\zsigm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zsigm\\OneDrive\\Asztali gép\\Github\\Egressy\\Eg_12K\\Palásty Zsolt\\C#\\Practice_1\\Practice_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Simens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zsigm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
