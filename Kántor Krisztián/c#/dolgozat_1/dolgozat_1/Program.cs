@@ -79,20 +79,12 @@ namespace dolgozat_1
             Console.WriteLine("Kérek egy szöveget:");
             string szoveg = Console.ReadLine();
             Stack<char> verem = new Stack<char>();
-            
+            List<char> lista2 = new List<char>();
             foreach (char item in szoveg)
             {
                 if (item!=' ')
                 {
                     verem.Push(item);
-                }
-            }
-
-            List<char> lista2 = new List<char>();
-            foreach (char item in szoveg)
-            {
-                if (item != ' ')
-                {
                     lista2.Add(item);
                 }
             }
