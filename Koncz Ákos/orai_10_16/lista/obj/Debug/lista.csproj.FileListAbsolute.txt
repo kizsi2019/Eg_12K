@@ -1,6 +1,0 @@
-C:\Users\koncz.akos\source\repos\lista\bin\Debug\lista.exe.config
-C:\Users\koncz.akos\source\repos\lista\bin\Debug\lista.exe
-C:\Users\koncz.akos\source\repos\lista\bin\Debug\lista.pdb
-C:\Users\koncz.akos\source\repos\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
-C:\Users\koncz.akos\source\repos\lista\obj\Debug\lista.exe
-C:\Users\koncz.akos\source\repos\lista\obj\Debug\lista.pdb
