@@ -1,7 +1,0 @@
-H:\12_asztali\lista\lista\bin\Debug\lista.exe.config
-H:\12_asztali\lista\lista\bin\Debug\lista.exe
-H:\12_asztali\lista\lista\bin\Debug\lista.pdb
-H:\12_asztali\lista\lista\obj\Debug\lista.csproj.AssemblyReference.cache
-H:\12_asztali\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
-H:\12_asztali\lista\lista\obj\Debug\lista.exe
-H:\12_asztali\lista\lista\obj\Debug\lista.pdb

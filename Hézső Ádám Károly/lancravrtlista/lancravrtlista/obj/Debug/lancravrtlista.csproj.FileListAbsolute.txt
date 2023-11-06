@@ -1,6 +1,0 @@
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\bin\Debug\lancravrtlista.exe.config
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\bin\Debug\lancravrtlista.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\bin\Debug\lancravrtlista.pdb
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\obj\Debug\lancravrtlista.csproj.CoreCompileInputs.cache
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\obj\Debug\lancravrtlista.exe
-H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\lancravrtlista\lancravrtlista\obj\Debug\lancravrtlista.pdb

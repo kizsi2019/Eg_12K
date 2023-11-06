@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SudokuCLI_Solution/1.0.0": {
+        "runtime": {
+          "SudokuCLI_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SudokuCLI_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

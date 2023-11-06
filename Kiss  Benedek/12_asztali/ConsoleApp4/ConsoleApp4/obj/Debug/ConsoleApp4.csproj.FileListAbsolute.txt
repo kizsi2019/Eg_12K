@@ -1,7 +1,0 @@
-H:\12_asztali\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-H:\12_asztali\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-H:\12_asztali\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-H:\12_asztali\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
-H:\12_asztali\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
-H:\12_asztali\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-H:\12_asztali\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

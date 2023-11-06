@@ -1,0 +1,7 @@
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\obj\Debug\osztaly.csproj.AssemblyReference.cache
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\obj\Debug\osztaly.csproj.CoreCompileInputs.cache
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\bin\Debug\osztaly.exe.config
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\bin\Debug\osztaly.exe
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\bin\Debug\osztaly.pdb
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\obj\Debug\osztaly.exe
+H:\munka\Eg_12K\Sebestyén Milán\sodoku megoldas\osztaly\osztaly\obj\Debug\osztaly.pdb

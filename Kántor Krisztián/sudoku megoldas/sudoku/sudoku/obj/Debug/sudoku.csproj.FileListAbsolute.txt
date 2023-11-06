@@ -1,0 +1,7 @@
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\bin\Debug\sudoku.exe.config
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\bin\Debug\sudoku.exe
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\bin\Debug\sudoku.pdb
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\obj\Debug\sudoku.exe
+H:\2023-2024\github\Eg_12K\Kántor Krisztián\sudoku megoldas\sudoku\sudoku\obj\Debug\sudoku.pdb
