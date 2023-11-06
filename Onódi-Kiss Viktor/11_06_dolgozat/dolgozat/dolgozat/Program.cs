@@ -58,7 +58,7 @@ namespace dolgozat
 
             while (name.Count() == 0)
             {
-                Console.WriteLine("Adj meg egy nevet: ");
+                Console.Write("Adj meg egy nevet: ");
                 name = Console.ReadLine();
             }
 
@@ -72,7 +72,7 @@ namespace dolgozat
 
                 while (jegyekS.Count() == 0)
                 {
-                    Console.WriteLine("Add meg az osztályzatait egy bizonyos tárgyból, vesszővel elválasztva: ");
+                    Console.Write("Add meg az osztályzatait egy bizonyos tárgyból, vesszővel elválasztva: ");
                     jegyekS = Console.ReadLine();
                 }
 
@@ -105,7 +105,7 @@ namespace dolgozat
         private static string Palindrom()
         {
 
-            Console.WriteLine("Adj meg egy szót kérlek: ");
+            Console.Write("Adj meg egy szót kérlek: ");
             string txt = Console.ReadLine();
 
             bool palindrom = true;
@@ -129,6 +129,7 @@ namespace dolgozat
         {
             Bekeres();
             Console.WriteLine(Palindrom());
+            Console.ReadKey();
         }
     }
 }
