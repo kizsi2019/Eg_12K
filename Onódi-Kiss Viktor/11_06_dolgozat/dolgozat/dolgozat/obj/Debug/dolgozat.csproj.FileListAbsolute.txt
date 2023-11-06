@@ -1,0 +1,7 @@
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\bin\Debug\dolgozat.exe.config
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\bin\Debug\dolgozat.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\bin\Debug\dolgozat.pdb
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.AssemblyReference.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\obj\Debug\dolgozat.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\11_06_dolgozat\dolgozat\dolgozat\obj\Debug\dolgozat.pdb
