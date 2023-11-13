@@ -24,24 +24,43 @@ namespace dolgozat1
                 }*/
                 bekeres = false;
             }
-            
+            Console.WriteLine("Add meg a jegyek mennyiségét: ");
+            int jegyekszama = Convert.ToInt32(Console.ReadLine());
 
-            // adatszerkezet
-            List<int> jegyek = new List<int>();
-            jegyek.Add(1);
-            jegyek.Add(2);
-            jegyek.Add(3);
-            jegyek.Add(2);
-            jegyek.Add(2);
-            jegyek.Add(4);
-            jegyek.Add(5);
-            jegyek.Add(3);
+
+            // adatszerkezet + Bekeres
+            int input;
+
+            List<int> numbers = new List<int>();
+
+            while (numbers.Count < jegyekszama)
+            {
+                Console.WriteLine("Jegy: ");
+
+
+                input = Convert.ToInt32(Console.ReadLine());
+
+                if (input >= 1 && input <= 5)
+                {
+                    numbers.Add(input);
+                }
+                else
+                {
+                    Console.WriteLine("Jegy: ");
+
+                    input = Convert.ToInt32(Console.ReadLine());
+                    if (input >= 1 && input <= 5)
+                    {
+                        numbers.Add(input);
+                    }
+                }
+            }
 
             double count = 0;
             double summ = 0;
             double atlag = 0;
 
-            foreach (int i in jegyek)
+            foreach (int i in numbers)
             {
                 summ += i;
                 count += 1;
@@ -54,7 +73,7 @@ namespace dolgozat1
             int max = 0;
 
 
-            foreach (int i in jegyek)
+            foreach (int i in numbers)
             {
                 if (max < i)
                 {
@@ -69,7 +88,7 @@ namespace dolgozat1
             int min = 999;
 
 
-            foreach (int i in jegyek)
+            foreach (int i in numbers)
             {
                 if (min > i)
                 {

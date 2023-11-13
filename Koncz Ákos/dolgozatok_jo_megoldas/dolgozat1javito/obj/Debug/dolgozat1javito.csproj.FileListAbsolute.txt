@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\source\repos\dolgozat1javito\bin\Debug\dolgozat1javito.exe.config
+C:\Users\koncz.akos\source\repos\dolgozat1javito\bin\Debug\dolgozat1javito.exe
+C:\Users\koncz.akos\source\repos\dolgozat1javito\bin\Debug\dolgozat1javito.pdb
+C:\Users\koncz.akos\source\repos\dolgozat1javito\obj\Debug\dolgozat1javito.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\source\repos\dolgozat1javito\obj\Debug\dolgozat1javito.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\source\repos\dolgozat1javito\obj\Debug\dolgozat1javito.exe
+C:\Users\koncz.akos\source\repos\dolgozat1javito\obj\Debug\dolgozat1javito.pdb
