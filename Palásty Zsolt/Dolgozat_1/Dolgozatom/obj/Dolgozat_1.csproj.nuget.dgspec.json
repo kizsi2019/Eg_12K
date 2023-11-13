@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Dolgozat_1\\Dolgozat_1\\Dolgozat_1.csproj": {}
+    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Dolgozat_1\\Dolgozat_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Dolgozat_1\\Dolgozat_1\\Dolgozat_1.csproj": {
+    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Dolgozat_1\\Dolgozat_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Dolgozat_1\\Dolgozat_1\\Dolgozat_1.csproj",
+        "projectUniqueName": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Dolgozat_1\\Dolgozat_1.csproj",
         "projectName": "Dolgozat_1",
-        "projectPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Dolgozat_1\\Dolgozat_1\\Dolgozat_1.csproj",
+        "projectPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Dolgozat_1\\Dolgozat_1.csproj",
         "packagesPath": "C:\\Users\\Simens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\Dolgozat_1\\Dolgozat_1\\obj\\",
+        "outputPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Dolgozat_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
