@@ -84,9 +84,15 @@ namespace dolgozat
 
                 for (int i = 0; i < jegyekSplit.Count(); i++)
                 {
+
                     try
                     {
                         jegyek[i] = Convert.ToDouble(jegyekSplit[i]);
+                        if (jegyek[i] > 5.0 || jegyek[i] < 1.0)
+                        {
+                            Console.WriteLine("Hiba, nem megfelelő formátum!");
+                            siker = false;
+                        }
                     }
                     catch
                     {
