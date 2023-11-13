@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "dolgozat1/1.0.0": {
+      "Dolgozat1/1.0.0": {
         "runtime": {
-          "dolgozat1.dll": {}
+          "Dolgozat1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "dolgozat1/1.0.0": {
+    "Dolgozat1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

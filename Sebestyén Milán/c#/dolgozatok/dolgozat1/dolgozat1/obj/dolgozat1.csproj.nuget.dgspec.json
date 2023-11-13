@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\dolgozat1\\dolgozat1.csproj": {}
+    "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\Dolgozat1\\Dolgozat1.csproj": {}
   },
   "projects": {
-    "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\dolgozat1\\dolgozat1.csproj": {
+    "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\Dolgozat1\\Dolgozat1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\dolgozat1\\dolgozat1.csproj",
+        "projectUniqueName": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\Dolgozat1\\Dolgozat1.csproj",
         "projectName": "dolgozat1",
-        "projectPath": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\dolgozat1\\dolgozat1.csproj",
+        "projectPath": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\Dolgozat1\\Dolgozat1.csproj",
         "packagesPath": "C:\\Users\\sebim\\.nuget\\packages\\",
         "outputPath": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\dolgozatok\\dolgozat1\\dolgozat1\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\bin\Debug\net6.0\Dolgozat_javítás_1.1.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\bin\Debug\net6.0\Dolgozat_javítás_1.1.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\bin\Debug\net6.0\Dolgozat_javítás_1.1.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\bin\Debug\net6.0\Dolgozat_javítás_1.1.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\bin\Debug\net6.0\Dolgozat_javítás_1.1.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\refint\Dolgozat_javítás_1.1.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\Dolgozat_javítás_1.1.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\Dolgozat_javítás_1.1\Dolgozat_javítás_1.1\obj\Debug\net6.0\ref\Dolgozat_javítás_1.1.dll
