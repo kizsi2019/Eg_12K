@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\bin\Debug\dolgozat_1.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\bin\Debug\dolgozat_1.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\bin\Debug\dolgozat_1.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\obj\Debug\dolgozat_1.csproj.AssemblyReference.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\obj\Debug\dolgozat_1.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\obj\Debug\dolgozat_1.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\dolgozat_1\dolgozat_1\obj\Debug\dolgozat_1.pdb

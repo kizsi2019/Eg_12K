@@ -1,0 +1,7 @@
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\bin\Debug\orai.exe.config
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\bin\Debug\orai.exe
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\bin\Debug\orai.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\obj\Debug\orai.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\obj\Debug\orai.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\obj\Debug\orai.exe
+C:\Users\Kovacs.Zeteny.Zsolt\source\repos\orai\orai\obj\Debug\orai.pdb
