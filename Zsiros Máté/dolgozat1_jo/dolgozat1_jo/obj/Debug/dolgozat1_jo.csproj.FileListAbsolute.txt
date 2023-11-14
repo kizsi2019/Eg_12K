@@ -1,0 +1,7 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\bin\Debug\dolgozat1_jo.exe.config
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\bin\Debug\dolgozat1_jo.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\bin\Debug\dolgozat1_jo.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\obj\Debug\dolgozat1_jo.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\obj\Debug\dolgozat1_jo.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\obj\Debug\dolgozat1_jo.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\dolgozat1_jo\dolgozat1_jo\obj\Debug\dolgozat1_jo.pdb
