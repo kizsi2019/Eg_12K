@@ -1,0 +1,6 @@
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\bin\Debug\Ellenőrzött_adatbekeres.exe.config
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\bin\Debug\Ellenőrzött_adatbekeres.exe
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\bin\Debug\Ellenőrzött_adatbekeres.pdb
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\obj\Debug\Ellenőrzött_adatbekeres.csproj.CoreCompileInputs.cache
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\obj\Debug\Ellenőrzött_adatbekeres.exe
+H:\12_asztali\Ellenőrzött_adatbekeres\Ellenőrzött_adatbekeres\obj\Debug\Ellenőrzött_adatbekeres.pdb

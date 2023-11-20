@@ -1,0 +1,7 @@
+H:\12_asztali\Sor\Sor\bin\Debug\Sor.exe.config
+H:\12_asztali\Sor\Sor\bin\Debug\Sor.exe
+H:\12_asztali\Sor\Sor\bin\Debug\Sor.pdb
+H:\12_asztali\Sor\Sor\obj\Debug\Sor.csproj.AssemblyReference.cache
+H:\12_asztali\Sor\Sor\obj\Debug\Sor.csproj.CoreCompileInputs.cache
+H:\12_asztali\Sor\Sor\obj\Debug\Sor.exe
+H:\12_asztali\Sor\Sor\obj\Debug\Sor.pdb
