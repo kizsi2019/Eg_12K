@@ -1,0 +1,7 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\bin\Debug\nevezetes_algoritmusok.exe.config
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\bin\Debug\nevezetes_algoritmusok.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\bin\Debug\nevezetes_algoritmusok.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\obj\Debug\nevezetes_algoritmusok.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\obj\Debug\nevezetes_algoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\obj\Debug\nevezetes_algoritmusok.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\nevezetes_algoritmusok\nevezetes_algoritmusok\obj\Debug\nevezetes_algoritmusok.pdb
