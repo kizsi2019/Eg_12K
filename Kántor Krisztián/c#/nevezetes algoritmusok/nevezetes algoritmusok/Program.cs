@@ -114,12 +114,73 @@ namespace nevezetes_algoritmusok
             }
 
 
+            int asd = 0;
+            int[] dsa = ParatlanSzamok(tomb, out asd);
+            foreach (int item in dsa)
+            {
+                if (item!=0)
+                {
+                    Console.WriteLine(item);
+                }
+                
+            }
 
 
+            int[] szamokT = new int[20] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+
+            int[] negyzetszamokT = new int[20];
+            int[] oszthatoszamokT = new int[20];
+            int negyzet_i = 0, osz3_i = 0;
+            for (int i = 0; i < szamokT.Length; i++)
+            {
+                if (szamokT[i]>0&&Math.Sqrt(szamokT[i])%1==0)
+                {
+                    negyzetszamokT[negyzet_i] = szamokT[i];negyzet_i++;
+                }
+
+                if (szamokT[i] % 3 == 0)
+                {
+                    oszthatoszamokT[osz3_i] = szamokT[i]; osz3_i++;
+                }
+            }
+
+            Console.WriteLine("Négyzetszámok:");
+            foreach (int item in negyzetszamokT)
+            {
+                if (item != 0)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+            Console.WriteLine("Hárommal osztható:");
+
+            foreach (int item in oszthatoszamokT)
+            {
+                if (item != 0)
+                {
+                    Console.WriteLine(item);
+                }
+            }
 
 
 
             Console.ReadKey();
+        }
+
+        static int[] ParatlanSzamok(int[] szamokT,out int paratlanindex)
+        {
+            int[] paratlanok = new int[szamokT.Length];
+            paratlanindex = 0;
+            for (int i = 0; i < szamokT.Length; i++)
+            {
+                if (szamokT[i]%2!=0)
+                {
+                    paratlanok[paratlanindex] = szamokT[i];
+                    paratlanindex++;
+                }
+
+            }
+            return paratlanok;
         }
     }
 }

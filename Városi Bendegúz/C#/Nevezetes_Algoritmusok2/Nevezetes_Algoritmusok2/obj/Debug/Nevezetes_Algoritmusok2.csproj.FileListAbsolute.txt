@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\bin\Debug\Nevezetes_Algoritmusok2.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\bin\Debug\Nevezetes_Algoritmusok2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\bin\Debug\Nevezetes_Algoritmusok2.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\obj\Debug\Nevezetes_Algoritmusok2.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\obj\Debug\Nevezetes_Algoritmusok2.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\obj\Debug\Nevezetes_Algoritmusok2.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Nevezetes_Algoritmusok2\Nevezetes_Algoritmusok2\obj\Debug\Nevezetes_Algoritmusok2.pdb

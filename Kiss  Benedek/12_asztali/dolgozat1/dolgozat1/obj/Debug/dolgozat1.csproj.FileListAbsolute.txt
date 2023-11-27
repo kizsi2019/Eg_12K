@@ -1,0 +1,7 @@
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\bin\Debug\dolgozat1.exe.config
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\bin\Debug\dolgozat1.exe
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\bin\Debug\dolgozat1.pdb
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\obj\Debug\dolgozat1.csproj.AssemblyReference.cache
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\obj\Debug\dolgozat1.csproj.CoreCompileInputs.cache
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\obj\Debug\dolgozat1.exe
+H:\github\Eg_12K\Kiss  Benedek\12_asztali\dolgozat1\dolgozat1\obj\Debug\dolgozat1.pdb
