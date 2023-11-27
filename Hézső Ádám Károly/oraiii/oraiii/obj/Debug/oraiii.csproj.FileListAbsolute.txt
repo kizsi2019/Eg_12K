@@ -1,0 +1,7 @@
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\bin\Debug\oraiii.exe.config
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\bin\Debug\oraiii.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\bin\Debug\oraiii.pdb
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\obj\Debug\oraiii.csproj.AssemblyReference.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\obj\Debug\oraiii.csproj.CoreCompileInputs.cache
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\obj\Debug\oraiii.exe
+H:\2023-24\KZs\Eg_12K\Hézső Ádám Károly\oraiii\oraiii\obj\Debug\oraiii.pdb
