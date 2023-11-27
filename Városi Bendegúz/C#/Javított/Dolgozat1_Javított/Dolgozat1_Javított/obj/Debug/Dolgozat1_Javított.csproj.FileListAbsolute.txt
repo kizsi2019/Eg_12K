@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\bin\Debug\Dolgozat1_Javított.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\bin\Debug\Dolgozat1_Javított.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\bin\Debug\Dolgozat1_Javított.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\obj\Debug\Dolgozat1_Javított.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\obj\Debug\Dolgozat1_Javított.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\obj\Debug\Dolgozat1_Javított.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Javított\Dolgozat1_Javított\Dolgozat1_Javított\obj\Debug\Dolgozat1_Javított.pdb

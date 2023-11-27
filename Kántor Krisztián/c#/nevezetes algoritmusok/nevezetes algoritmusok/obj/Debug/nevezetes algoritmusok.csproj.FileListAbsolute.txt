@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\bin\Debug\nevezetes algoritmusok.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\bin\Debug\nevezetes algoritmusok.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\bin\Debug\nevezetes algoritmusok.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\obj\Debug\nevezetes algoritmusok.csproj.AssemblyReference.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\obj\Debug\nevezetes algoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\obj\Debug\nevezetes algoritmusok.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\nevezetes algoritmusok\nevezetes algoritmusok\obj\Debug\nevezetes algoritmusok.pdb
