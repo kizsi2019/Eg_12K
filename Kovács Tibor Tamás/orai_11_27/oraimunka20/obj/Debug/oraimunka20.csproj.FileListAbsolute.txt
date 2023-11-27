@@ -1,0 +1,7 @@
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\bin\Debug\oraimunka20.exe.config
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\bin\Debug\oraimunka20.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\bin\Debug\oraimunka20.pdb
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\obj\Debug\oraimunka20.csproj.AssemblyReference.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\obj\Debug\oraimunka20.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\obj\Debug\oraimunka20.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai_11_20\oraimunka20\obj\Debug\oraimunka20.pdb
