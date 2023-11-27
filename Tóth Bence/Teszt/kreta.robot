@@ -7,3 +7,4 @@ kreta
     input text    //*[@id="UserName"]    72376789688
     Input Password    //*[@id="Password"]    2003-06-25
     Click Button    //*[@id="submit-btn"]
+    Click Button    //*[@class="Box-Item"]

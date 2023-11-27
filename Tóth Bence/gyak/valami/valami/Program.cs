@@ -10,7 +10,9 @@ namespace valami
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Kurva anyad");
+            Console.ReadKey();
         }
+        
     }
 }
