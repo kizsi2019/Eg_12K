@@ -1,0 +1,7 @@
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\NevezetesAlgoritmusok.csproj.AssemblyReference.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\NevezetesAlgoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\NevezetesAlgoritmusok.exe.config
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\NevezetesAlgoritmusok.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\NevezetesAlgoritmusok.pdb
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\NevezetesAlgoritmusok.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\12_asztali\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\NevezetesAlgoritmusok.pdb
