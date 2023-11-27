@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ namespace proba
     {
         static void Main(string[] args)
         {
+            
             int[] tomb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
             int osszeg = 0;
             for (int i = 0; i < tomb.Length; i++)
@@ -126,7 +128,15 @@ namespace proba
             }
 
 
-            int[] szamokT = new int[20] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+            StreamReader sr = new StreamReader ("szamok.txt" );
+
+            int[] szamokT = new int[20];
+            int k = 0;
+            while (!sr.EndOfStream)
+            {
+                szamokT[k] = int.Parse(sr.ReadLine());
+                k++;
+            }
 
             int[] negyzetszamokT = new int[20];
             int[] oszthatoszamokT = new int[20];
@@ -161,6 +171,63 @@ namespace proba
                     Console.WriteLine(item);
                 }
             }
+
+            /*
+
+            int[] szamokT2= new int[20];
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("adja meg a {0} számot",i+1 );
+                szamokT2[i]=int.Parse(Console.ReadLine());
+            }
+
+            int e = 0;
+            int u =szamokT2.Length-1;
+            while (e<=u)
+            {
+                int csere = 0;
+                if (szamokT2[e]%2 ==0)
+                {
+                    e++;
+                }
+                else
+                {
+                    csere = szamokT2[e];
+                    szamokT2[e]=szamokT2[u];
+                    szamokT2[u] = csere;
+                    u--;
+                }
+            }
+
+            Console.WriteLine( "számok");
+            foreach (int item in szamokT2)
+            {
+                Console.WriteLine( item);
+            }*/
+
+
+            int[] tombbb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
+
+            for (int i = tombbb.Length-1; i >1; i--)
+            {
+                for (int h = 0; h < i; h++)
+                {
+                    if (tombbb[h] > tombbb[h+1])
+                    {
+                        int csere = tombbb[h];
+                        tombbb[h] = tombbb[h+1];
+                        tombbb[h + 1] = csere;
+                    }
+                }
+            }
+            Console.WriteLine(  "rák");
+            foreach (int item in tombbb)
+            {
+                Console.WriteLine(item);
+            }
+
+
+
 
             Console.ReadKey();
             
