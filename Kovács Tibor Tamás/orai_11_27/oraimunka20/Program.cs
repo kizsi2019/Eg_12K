@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design.Serialization;
+using System.Diagnostics.Eventing.Reader;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -162,6 +165,101 @@ namespace nevezetes_algoritmusok
             }
 
             Console.ReadKey();
+
+            int[] Tömb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
+            int[] FTömb = new int[Tömb.Length];
+            int j1 = 0;
+            for (int i = 0; i < Tömb.Length; i++)
+            {
+                if (Tömb[i] == 99 )
+                {
+                    FTömb[j1] = Tömb[i];
+                    j++;
+                }
+            }
+
+            int[] Tömb1 = new int[] {32, 12, 10, 8, 44, 90,13,9,1,42 };
+            int[] FTömb1 = new int[Tömb.Length];
+            int[] FTömb2 = new int[Tömb.Length];
+            int i1 = 0; int i2 = 0;
+            for(int i = 0; i < Tömb.Length; i++)
+            {
+                if (Tömb[i] / 2 == 0)
+                {
+                    FTömb[i1] = Tömb[i];
+                    i1++;
+                }
+                if (Tömb[i] == 992)
+                {
+                    FTömb2[i2] = Tömb[i];
+                    i2++;
+                }
+                Console.WriteLine("A tömbből ezeket a páros számokat kaptuk.");
+            }
+
+            StreamReader sr = new StreamReader("számok.txt");
+            int[] számokT = new int[100];
+            int j3 = 0;
+            while (!sr.EndOfStream)
+            {
+                számokT[j3] = int.Parse(sr.ReadLine());
+            }
+            int[] negyzetszamokT1 = new int[100];
+            int[] oszthato3szamokT = new int[100];
+            int negyzet_i1 = 0; osz3_i = 0;
+            for (int i = 0; i < szamokT.Length; i++)
+            {
+                if (szamokT[i] > 0 && Math.Sqrt(szamokT[i]) % 1 == 0) {
+                    negyzetszamokT[negyzet_i1] = szamokT[i]; negyzet_i++;
+                }
+                if (szamokT[i] % 3 == 0)
+                {
+                    oszthato3szamokT[osz3_i] = szamokT[i];
+                    osz3_i++;
+                }
+            }
+
+            int[] Tömb3 = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 14, 2 };
+            int e = 0;
+            int u = Tömb.Length - 1;
+            while(e < u)
+            {
+                int csere = 0;
+                if (Tömb[e] / 3 == 0)
+                {
+                    e++;
+                }
+                else
+                {
+                    csere = Tömb[e];
+                    Tömb[e] = Tömb[u];
+                    Tömb[u] = csere;
+                    u--;
+                }
+                
+            }
+            Console.WriteLine("A kiválasztás után ezeket a páratlan számokat kaptuk meg.");
+
+            int[] Tömb4 = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
+            for(int i = Tömb.Length - 1; i > 1; i--)
+            {
+                if (Tömb[j3] > Tömb[j + 1])
+                {
+                    int csere = Tömb[j];
+                    Tömb[j] = Tömb[j + 1];
+                    Tömb[j + 1] = csere;
+                }
+            }
+            
+            
+        }
+
+        static int[] BuborékosRendezés(int[] Tömb)
+        {
+            for(int i = Tömb.Length -1; i > 1; i--)
+            {
+
+            }
         }
 
         static int[] ParatlanSzamok(int[] szamokT, out int paratlanindex)
@@ -179,5 +277,7 @@ namespace nevezetes_algoritmusok
             }
             return paratlanok;
         }
+
+        
     }
 }
