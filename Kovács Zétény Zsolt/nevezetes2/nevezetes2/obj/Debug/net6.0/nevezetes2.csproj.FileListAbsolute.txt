@@ -1,0 +1,4 @@
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\nevezetes2\nevezetes2\obj\Debug\net6.0\nevezetes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\nevezetes2\nevezetes2\obj\Debug\net6.0\nevezetes2.AssemblyInfoInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\nevezetes2\nevezetes2\obj\Debug\net6.0\nevezetes2.AssemblyInfo.cs
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\nevezetes2\nevezetes2\obj\Debug\net6.0\nevezetes2.csproj.CoreCompileInputs.cache
