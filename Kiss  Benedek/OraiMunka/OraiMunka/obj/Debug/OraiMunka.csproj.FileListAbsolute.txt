@@ -1,0 +1,7 @@
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\bin\Debug\OraiMunka.exe.config
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\bin\Debug\OraiMunka.exe
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\bin\Debug\OraiMunka.pdb
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\obj\Debug\OraiMunka.csproj.AssemblyReference.cache
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\obj\Debug\OraiMunka.csproj.CoreCompileInputs.cache
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\obj\Debug\OraiMunka.exe
+C:\Users\Kiss.Benedek\Desktop\github\Eg_12K\Kiss  Benedek\12_asztali\OraiMunka\OraiMunka\obj\Debug\OraiMunka.pdb
