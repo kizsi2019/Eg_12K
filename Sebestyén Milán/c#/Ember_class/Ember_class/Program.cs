@@ -2,22 +2,9 @@
 {
     internal class Program
     {
-        class Ember
-        {
-            public string Név;
-            public int Kor;
-            public string Lakhely;
-            public string Munkahely;
-            public void Kiír()
-            {
-                Console.WriteLine("Név: "+Név);
-                Console.WriteLine("Kor: " + Kor);
-                Console.WriteLine("Lakhely: " + Lakhely);
-                Console.WriteLine("Munkahely: " + Munkahely);
+        
 
-            }
-
-        }
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
