@@ -1,0 +1,14 @@
+C:\Users\Ádám\source\repos\oraii\oraii\bin\Debug\net8.0\oraii.exe
+C:\Users\Ádám\source\repos\oraii\oraii\bin\Debug\net8.0\oraii.deps.json
+C:\Users\Ádám\source\repos\oraii\oraii\bin\Debug\net8.0\oraii.runtimeconfig.json
+C:\Users\Ádám\source\repos\oraii\oraii\bin\Debug\net8.0\oraii.dll
+C:\Users\Ádám\source\repos\oraii\oraii\bin\Debug\net8.0\oraii.pdb
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.AssemblyInfoInputs.cache
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.AssemblyInfo.cs
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.dll
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\refint\oraii.dll
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.pdb
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\oraii.genruntimeconfig.cache
+C:\Users\Ádám\source\repos\oraii\oraii\obj\Debug\net8.0\ref\oraii.dll

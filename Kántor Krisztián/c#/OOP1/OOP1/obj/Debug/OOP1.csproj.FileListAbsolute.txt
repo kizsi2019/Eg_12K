@@ -1,0 +1,8 @@
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\bin\Debug\OOP1.exe.config
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\bin\Debug\OOP1.exe
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\bin\Debug\OOP1.pdb
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\obj\Debug\OOP1.csproj.SuggestedBindingRedirects.cache
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\obj\Debug\OOP1.exe
+E:\git\suli\Eg_12K\Kántor Krisztián\c#\OOP1\OOP1\obj\Debug\OOP1.pdb
