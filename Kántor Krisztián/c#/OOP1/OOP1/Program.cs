@@ -8,20 +8,7 @@ namespace OOP1
 {
     internal class Program
     {
-        class Ember
-        {
-            public string Név;
-            public int Életkor;
-            public string Lakhely;
-            public string Munkahely;
-            public void Kiír()
-            {
-                Console.WriteLine("Név: "+Név);
-                Console.WriteLine("Életkor: "+Életkor);
-                Console.WriteLine("Lakhely: "+Lakhely);
-                Console.WriteLine("Munkahely: "+Munkahely);
-            }
-        }
+        
 
         static void Main(string[] args)
         {
