@@ -1,0 +1,14 @@
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.exe.config
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.exe
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.pdb
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.exe
+C:\Users\koncz.akos\source\repos\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\bin\Debug\nevezetesalgoritmusok.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\neveztes_algoritmusok\nevezetesalgoritmusok\obj\Debug\nevezetesalgoritmusok.pdb
