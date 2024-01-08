@@ -1,0 +1,15 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\net6.0\NevezetesAlgoritmusok.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\net6.0\NevezetesAlgoritmusok.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\net6.0\NevezetesAlgoritmusok.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\net6.0\NevezetesAlgoritmusok.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\bin\Debug\net6.0\NevezetesAlgoritmusok.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\refint\NevezetesAlgoritmusok.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\NevezetesAlgoritmusok.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\NevezetesAlgoritmusok\NevezetesAlgoritmusok\obj\Debug\net6.0\ref\NevezetesAlgoritmusok.dll
