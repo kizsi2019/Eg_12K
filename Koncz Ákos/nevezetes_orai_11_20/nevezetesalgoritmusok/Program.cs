@@ -10,7 +10,7 @@ namespace nevezetesalgoritmusok
     {
         static void Main(string[] args)
         {
-            /*int[] tomb = new int[] { 3, 2, 1, 2, 3, 4, 6, 7, 8 };
+            int[] tomb = new int[] { 3, 2, 1, 2, 3, 4, 6, 7, 8 };
             int count = 0;
 
             for (int i = 0; i < tomb.Length; i++)
@@ -113,9 +113,8 @@ namespace nevezetesalgoritmusok
                 Console.WriteLine("Nincs");
             }
 
+           
             
-            */
-            /*
             int[] szamok = { 2, 3, 4, 5, 6, 2, 2, 3, 4 };
             int index;
 
@@ -128,7 +127,6 @@ namespace nevezetesalgoritmusok
                     Console.WriteLine(szam);
                 }
             }
-            */
 
 
             //kovitetel
