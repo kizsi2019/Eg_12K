@@ -30,7 +30,7 @@ namespace NevezetesAlgoritmusok
             {
                 j++;
             }
-            if(j < ranT.Length &&)
+            if(j < ranT.Length)
             {
                 Console.WriteLine("Van");
                 else
