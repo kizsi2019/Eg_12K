@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\bin\Debug\Property1.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\bin\Debug\Property1.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\bin\Debug\Property1.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\obj\Debug\Property1.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\obj\Debug\Property1.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\obj\Debug\Property1.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Property1\Property1\obj\Debug\Property1.pdb
