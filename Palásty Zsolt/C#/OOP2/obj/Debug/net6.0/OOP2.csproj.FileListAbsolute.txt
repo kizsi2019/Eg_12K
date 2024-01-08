@@ -1,0 +1,5 @@
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\OOP2\OOP2\obj\Debug\net6.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\OOP2\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\Weblapszerkeztés\GitHub\Github\Eg_12K\Palásty Zsolt\Sudoku\OOP2\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
