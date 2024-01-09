@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility\obj\Debug\NetworkUtility.pdb
