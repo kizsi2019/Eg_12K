@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\bin\Debug\Unit TestCourse.exe.config
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\bin\Debug\Unit TestCourse.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\bin\Debug\Unit TestCourse.pdb
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\obj\Debug\Unit TestCourse.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\obj\Debug\Unit TestCourse.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\obj\Debug\Unit TestCourse.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Unit TestCourse\Unit TestCourse\obj\Debug\Unit TestCourse.pdb
