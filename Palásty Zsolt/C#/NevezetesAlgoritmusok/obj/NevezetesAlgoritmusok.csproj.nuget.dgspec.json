@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj": {}
+    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\C#\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj": {
+    "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\C#\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj",
+        "projectUniqueName": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\C#\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj",
         "projectName": "NevezetesAlgoritmusok",
-        "projectPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj",
+        "projectPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\C#\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok.csproj",
         "packagesPath": "C:\\Users\\Simens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\Weblapszerkeztés\\GitHub\\Github\\Eg_12K\\Palásty Zsolt\\Sudoku\\NevezetesAlgoritmusok\\NevezetesAlgoritmusok\\obj\\",
+        "outputPath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\C#\\NevezetesAlgoritmusok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
