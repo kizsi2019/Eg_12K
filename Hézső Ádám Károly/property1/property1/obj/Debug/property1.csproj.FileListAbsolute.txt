@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\bin\Debug\property1.exe.config
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\bin\Debug\property1.exe
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\bin\Debug\property1.pdb
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\obj\Debug\property1.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\obj\Debug\property1.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\obj\Debug\property1.exe
+C:\Users\hezso.karoly.adam\source\repos\property1\property1\obj\Debug\property1.pdb
