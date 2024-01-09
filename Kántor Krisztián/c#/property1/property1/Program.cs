@@ -35,7 +35,10 @@ namespace property1
                     if (value >= 0) életkor = value;
                     else Exception("Az életkor mező nem lehet negatív");
                 }
+
+
             }
+
 
             private int irányítószám;
             public int Irányítószám

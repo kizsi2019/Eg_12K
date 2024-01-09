@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
