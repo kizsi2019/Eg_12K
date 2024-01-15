@@ -1,0 +1,7 @@
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
