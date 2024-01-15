@@ -1,0 +1,7 @@
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\bin\Debug\unit_test_course.exe.config
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\bin\Debug\unit_test_course.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\bin\Debug\unit_test_course.pdb
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\obj\Debug\unit_test_course.csproj.AssemblyReference.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\obj\Debug\unit_test_course.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\obj\Debug\unit_test_course.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\orai1_9\unit_test_course\unit_test_course\obj\Debug\unit_test_course.pdb
