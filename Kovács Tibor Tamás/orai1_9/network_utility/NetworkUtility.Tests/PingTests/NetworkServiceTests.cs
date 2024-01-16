@@ -9,7 +9,7 @@ namespace NetworkUtility.Tests.PingTests
     class NetworkServiceTests
     {
         [Fact]
-        public void NetworkService_SendPing_ReturnString()
+        public void NetworkService_PositiveNegativeZero_ReturnString()
         {
             //Arrange
             var pingService = new NetworkService();

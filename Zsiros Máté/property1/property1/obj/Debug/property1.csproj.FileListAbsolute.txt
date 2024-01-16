@@ -1,0 +1,7 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\bin\Debug\property1.exe.config
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\bin\Debug\property1.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\bin\Debug\property1.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\obj\Debug\property1.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\obj\Debug\property1.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\obj\Debug\property1.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\property1\property1\obj\Debug\property1.pdb

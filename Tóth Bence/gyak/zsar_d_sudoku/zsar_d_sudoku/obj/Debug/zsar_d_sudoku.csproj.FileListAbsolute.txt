@@ -1,0 +1,9 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\bin\Debug\zsar_d_sudoku.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\bin\Debug\zsar_d_sudoku.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\bin\Debug\zsar_d_sudoku.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.Properties.Resources.resources
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.csproj.GenerateResource.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\zsar_d_sudoku\zsar_d_sudoku\obj\Debug\zsar_d_sudoku.pdb
