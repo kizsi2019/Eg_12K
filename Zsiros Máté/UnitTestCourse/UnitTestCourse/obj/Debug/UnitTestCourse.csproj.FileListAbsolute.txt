@@ -1,0 +1,7 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe.config
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.pdb

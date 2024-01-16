@@ -1,0 +1,7 @@
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe.config
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.pdb
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.AssemblyReference.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb

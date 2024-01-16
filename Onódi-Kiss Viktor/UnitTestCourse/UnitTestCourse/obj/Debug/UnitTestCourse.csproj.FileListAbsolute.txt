@@ -1,0 +1,7 @@
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe.config
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.pdb
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.exe
+C:\Users\okvik\OneDrive\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.pdb
