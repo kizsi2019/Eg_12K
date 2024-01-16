@@ -17,5 +17,22 @@ namespace networkutility.Ping
         {
             return a + b;
         }
+
+        public string Teljes(int a)
+        {
+            if( a < 0)
+            {
+                return ("Negativ");
+            }
+            else if(a == 0)
+            {
+                return ("Zero");
+            }
+            else
+            {
+                return ("Positiv");
+            }
+
+        }
     }
 }

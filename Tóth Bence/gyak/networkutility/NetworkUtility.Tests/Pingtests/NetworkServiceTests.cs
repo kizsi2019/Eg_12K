@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using FluentAssertions;
@@ -23,8 +24,8 @@ namespace NetworkUtility.Tests.Pingtests
             result.Should().Contain("Ping", Exactly.Once());
         }
         [Theory]
-        [InlineData(1,1,2)]
-        [InlineData(2,2,4)]
+        [InlineData(1, 1, 2)]
+        [InlineData(2, 2, 4)]
         public void NetworkService_PingTimeout_returnInt(int a, int b, int expected)
         {
             //Arrange
@@ -35,6 +36,23 @@ namespace NetworkUtility.Tests.Pingtests
             result.Should().Be(expected);
             result.Should().BeGreaterThanOrEqualTo(expected);
             result.Should().NotBeInRange(-1000, 0);
+        }
+        [Theory]
+        [InlineData(1, "Positiv")]
+        [InlineData(-2, "Negativ")]
+        [InlineData(0, "Zero")]
+
+
+        public void NetworkService_Teljes_Return(int a, string expected)
+        {
+            //Arrange
+            var pinger = new NetworkService();
+            //Act
+            var result2 = pinger.Teljes(a);
+            //Assert
+            result2.Should().BeOneOf("Positiv", "Negativ", "Zero");
+            
+
         }
     }
 }
