@@ -19,9 +19,10 @@ namespace nevezetes
 
             StreamReader sr = new StreamReader("számok.txt");
             int[] szamokT = new int[100];
-            int j = 0; while (!sr.EndOfStream)
+            int g = 0;
+            while (!sr.EndOfStream)
             {
-                szamokT[j] = int.Parse(sr.ReadLine());
+                szamokT[g] = int.Parse(sr.ReadLine());
             }
             //szétválogatás
             int[] negyzetszamokT = new int[100];
