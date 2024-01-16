@@ -1,0 +1,7 @@
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
