@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\obj\Debug\utilitytest.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\obj\Debug\utilitytest.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\bin\Debug\utilitytest.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\bin\Debug\utilitytest.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\bin\Debug\utilitytest.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\obj\Debug\utilitytest.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\utilitytest\obj\Debug\utilitytest.pdb
