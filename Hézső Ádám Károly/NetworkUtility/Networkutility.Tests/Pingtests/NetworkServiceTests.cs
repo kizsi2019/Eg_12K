@@ -37,5 +37,19 @@ namespace Networkutility.Tests.Pingtests
             result.Should().BeGreaterThanOrEqualTo(2);
             result.Should().NotBeInRange(-1000, 0);
         }
+        [Theory]
+        [InlineData(1, "Pozitív")]
+        [InlineData(0, "Zero")]
+        [InlineData(-2, "Negatív")]
+        public void NetworkService_Teljes_Return(int a, string expected)
+        {
+            //Arrange
+            var pinger = new NetworkService();
+            //Act
+            var result2 = pinger.Teljes(a);
+            //Assert
+            result2.Should().BeOneOf("Pozitív", "Zero", "Negatív");
+            
+        }
     }
 }
