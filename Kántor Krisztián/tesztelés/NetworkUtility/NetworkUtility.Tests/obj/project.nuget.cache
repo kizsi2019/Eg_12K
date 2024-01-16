@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kOAVJL5QaKE4u2jisTIa66rgh7K1mW+9dWK6G/jZJBfFmHsei52DfxQ7L0+exygoCds2MfZ/B8mmGA+UkCKxQ==",
+  "dgSpecHash": "U+XFHJDk/42h4Bvs0UwxeZL/fdYtfNVAa7s+yodDpERM820y4TxdPGsjxCbOBau9uhWPPAyDcdvGXUxoqOY9dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\c#\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kantor.krisztian\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\kantor.krisztian\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
