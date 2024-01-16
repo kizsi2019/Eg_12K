@@ -45,7 +45,7 @@ namespace NetworkUtility.Tests.PingTests
             //Arrange
             var pingService = new NetworkService();
             //Act
-            string result = pingService.PozitivNegativNulla();
+            string result = pingService.Teljes(a);
             result.Should().BeOneOf("Pozitív", "Negatív", "Nulla");
         }
 
