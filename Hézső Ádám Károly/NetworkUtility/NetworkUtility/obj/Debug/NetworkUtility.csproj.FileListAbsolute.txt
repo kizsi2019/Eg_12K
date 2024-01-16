@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
