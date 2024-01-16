@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valami", "valami\valami.csproj", "{318A81EE-0DEA-4BE1-AB0E-D44657F30FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318A81EE-0DEA-4BE1-AB0E-D44657F30FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318A81EE-0DEA-4BE1-AB0E-D44657F30FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318A81EE-0DEA-4BE1-AB0E-D44657F30FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318A81EE-0DEA-4BE1-AB0E-D44657F30FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832F6B97-EFB4-435E-B021-3F6A50D6B508}
+	EndGlobalSection
+EndGlobal

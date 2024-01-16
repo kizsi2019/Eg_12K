@@ -1,0 +1,15 @@
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.csproj.AssemblyReference.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.AssemblyInfoInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.AssemblyInfo.cs
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.csproj.CoreCompileInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\bin\Debug\net6.0\unit_test_course.exe
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\bin\Debug\net6.0\unit_test_course.deps.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\bin\Debug\net6.0\unit_test_course.runtimeconfig.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\bin\Debug\net6.0\unit_test_course.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\bin\Debug\net6.0\unit_test_course.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\refint\unit_test_course.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\unit_test_course.genruntimeconfig.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\unit_test_course\unit_test_course\obj\Debug\net6.0\ref\unit_test_course.dll

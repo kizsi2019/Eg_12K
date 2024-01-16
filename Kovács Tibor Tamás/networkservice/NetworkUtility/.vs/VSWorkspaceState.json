@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NetworkUtility",
+    "\\NetworkUtility.Tests",
+    "\\NetworkUtility.Tests\\PingTests",
+    "\\NetworkUtility\\Ping"
+  ],
+  "SelectedNode": "\\NetworkUtility.sln",
+  "PreviewInSolutionExplorer": false
+}
