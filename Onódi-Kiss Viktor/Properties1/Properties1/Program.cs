@@ -73,6 +73,7 @@ namespace Properties1
         static void Main(string[] args)
         {
             Ember e = new Ember("Gipsz Jakab", 2003, 1135);
+            Console.WriteLine($"Név: {e.Név}\nSzületési Dátum: {e.Életkor}\nIranyitoszam: {e.Irányítószám}");
         }
     }
 }
