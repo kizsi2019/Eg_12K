@@ -1,0 +1,7 @@
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\bin\Debug\unit_test_course.exe.config
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\bin\Debug\unit_test_course.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\bin\Debug\unit_test_course.pdb
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\obj\Debug\unit_test_course.csproj.AssemblyReference.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\obj\Debug\unit_test_course.csproj.CoreCompileInputs.cache
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\obj\Debug\unit_test_course.exe
+C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\c#\unit_test_course\unit_test_course\obj\Debug\unit_test_course.pdb

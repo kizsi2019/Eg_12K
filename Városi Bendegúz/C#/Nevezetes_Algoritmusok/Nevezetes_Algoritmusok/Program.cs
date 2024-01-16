@@ -92,6 +92,11 @@ namespace Nevezetes_Algoritmusok
             if (rendezettTömb[közép] == 31) Console.WriteLine("Van, indexe: " + közép);
             else Console.WriteLine("Nincs");
 
+
+            
+
+
+
             Console.ReadKey();
         }
     }
