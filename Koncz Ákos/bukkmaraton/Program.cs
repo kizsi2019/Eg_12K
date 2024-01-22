@@ -73,6 +73,55 @@ namespace bukkmaraton
                 Console.WriteLine("6. feladat: Nem volt ilyen versenyzo");
             }
 
+            Console.WriteLine("7. feladat A felnőtt férfi  (ff) kategória győztese rövid távon:");
+            Versenyzo gyoztes = null;
+
+            foreach (var i in versenyzo)
+            {
+                if (i.Tav == "Rövid" && i.Kategoria == "ff")
+                {
+                    if (gyoztes == null)
+                    {
+                        gyoztes = i;
+                    }
+                    else
+                    {
+                        if (i.Ido < gyoztes.Ido)
+                        {
+                            gyoztes = i;
+                        }
+                    }
+                }
+            }
+            Console.WriteLine($"\tRajtszám: {gyoztes.Rajtszam}");
+            Console.WriteLine($"\tNév: {gyoztes.Nev}");
+            Console.WriteLine($"\tEgyesület: {gyoztes.Egyesulet}");
+            Console.WriteLine($"\tIdő: {gyoztes.Ido}");
+
+
+            Console.WriteLine("8. feladat: Statisztika");
+            Dictionary<string, int> dict = new Dictionary<string, int>();
+            
+            foreach (var i in versenyzo)
+            {
+                if (i.NoiVersenyzo)
+                {
+                    if (dict.ContainsKey(i.Kategoria))
+                    {
+                        dict[i.Kategoria]++;
+                    }
+                    else
+                    {
+                        dict.Add(i.Kategoria, 1);
+                    }
+                }
+            }
+
+            foreach (var i in dict)
+            {
+                Console.WriteLine($"\t{i.Key} - {i.Value} fő");
+            }
+
             Console.ReadKey();
         }
     }
