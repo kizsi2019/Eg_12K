@@ -1,15 +1,22 @@
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\networkUtility.exe.config
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\networkUtility.exe
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\networkUtility.pdb
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\FluentAssertions.dll
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\FluentAssertions.pdb
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\FluentAssertions.xml
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\obj\Debug\networkUtility.csproj.AssemblyReference.cache
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\obj\Debug\networkUtility.csproj.CoreCompileInputs.cache
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\obj\Debug\networkUtility.csproj.CopyComplete
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\obj\Debug\networkUtility.exe
-C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkUtility\networkUtility\obj\Debug\networkUtility.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\networkutility.exe.config
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\networkutility.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\networkutility.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\FluentAssertions.dll
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\FluentAssertions.pdb
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\FluentAssertions.xml
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\obj\Debug\networkutility.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\obj\Debug\networkutility.csproj.CoreCompileInputs.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\obj\Debug\networkutility.csproj.CopyComplete
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\obj\Debug\networkutility.exe
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\networkutility\networkutility\obj\Debug\networkutility.pdb

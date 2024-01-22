@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZenkpjrvCQpeD2r2V/7nqMjLj1tWAR0U16vvjsv4DG42XLRMiZ7fVrTYZZP3TPICOEXvXattGOuxJZJuV9JSQ==",
+  "dgSpecHash": "BiATEUcIjumLtLEayYe6EUqcSmoPEOKmBBTaC/gss3+qIJWM9MzLzbFYlnknfoOgWLuymkTmrgHBAnfDApbFag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\okvik\\OneDrive\\Programozás projektek\\Órai\\KiZsi\\Eg_12K\\Onódi-Kiss Viktor\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+  "projectFilePath": "C:\\Users\\okvik\\Documents\\Programozás projektek\\Órai\\KiZsi\\Eg_12K\\Onódi-Kiss Viktor\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\okvik\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\okvik\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

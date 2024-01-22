@@ -16,5 +16,19 @@ namespace NetworkUtility.Ping
         {
             return a + b;
         }
+
+        public string Teljes()
+        {
+            int a = 0;
+            if (a > 0)
+            {
+                return "Pozitív";
+            }
+            else if (a < 0)
+            {
+                return "Negatív";
+            }
+            else { return "Nulla"; }
+        }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\bin\Debug\bukkmaraton.exe.config
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\bin\Debug\bukkmaraton.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\bin\Debug\bukkmaraton.pdb
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\obj\Debug\bukkmaraton.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\obj\Debug\bukkmaraton.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\obj\Debug\bukkmaraton.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\bukkmaraton\bukkmaraton\obj\Debug\bukkmaraton.pdb

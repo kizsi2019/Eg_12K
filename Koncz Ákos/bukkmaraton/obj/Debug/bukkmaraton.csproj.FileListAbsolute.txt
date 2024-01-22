@@ -1,0 +1,14 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\bin\Debug\bukkmaraton.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\bin\Debug\bukkmaraton.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\bin\Debug\bukkmaraton.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\obj\Debug\bukkmaraton.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\obj\Debug\bukkmaraton.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\obj\Debug\bukkmaraton.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\testing_2024_01_16\bukkmaraton\obj\Debug\bukkmaraton.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\bin\Debug\bukkmaraton.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\bin\Debug\bukkmaraton.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\bin\Debug\bukkmaraton.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\obj\Debug\bukkmaraton.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\obj\Debug\bukkmaraton.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\obj\Debug\bukkmaraton.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\bukkmaraton\obj\Debug\bukkmaraton.pdb
