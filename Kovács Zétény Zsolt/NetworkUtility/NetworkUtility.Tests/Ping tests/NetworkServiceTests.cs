@@ -37,5 +37,29 @@ namespace NetworkUtility.Tests.Ping_tests
             result.Should().BeGreaterThanOrEqualTo(2);
             result.Should().NotBeInRange(-1000, 0);
         }
+
+        
+    
+        
+        [Theory]
+        [InlineData(-1,"Negatív")]
+        [InlineData(2,"Pozitív")]
+        [InlineData(0, "Pozitív")]
+        public void NetworkServiceTeljesReturnString(int a, string expected)
+        {
+            var NumCheck = new NetworkService();
+
+            var result2 = NumCheck.Teljes();
+
+           
+            result2.Should().BeOneOf(
+                "Pozitív",
+                "Negatív",
+                "Nulla"
+                );
+        }
+
+        
+
     }
 }

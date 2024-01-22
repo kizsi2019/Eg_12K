@@ -1,0 +1,7 @@
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\bin\Debug\Properties1.exe.config
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\bin\Debug\Properties1.exe
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\bin\Debug\Properties1.pdb
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\obj\Debug\Properties1.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\obj\Debug\Properties1.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\obj\Debug\Properties1.exe
+C:\Users\okvik\Documents\Programozás projektek\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Properties1\Properties1\obj\Debug\Properties1.pdb
