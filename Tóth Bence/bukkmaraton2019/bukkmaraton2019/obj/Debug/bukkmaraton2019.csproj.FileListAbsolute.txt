@@ -1,0 +1,2 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.csproj.CoreCompileInputs.cache
