@@ -1,63 +1,11 @@
-﻿using System;
+﻿using bukkmaraton2019;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
 namespace BukkMaraton2019
-{
-
-    // 2. feladat:
-    class Versenytav
-    {
-        private string Rajtszam;
-        public string Tav
-        {
-            get
-            {
-                switch (Rajtszam[0])
-                {
-                    case 'M': return "Mini";
-                    case 'R': return "Rövid";
-                    case 'K': return "Közép";
-                    case 'H': return "Hosszú";
-                    case 'E': return "Pedelec";
-                }
-                return "Hibás rajtszám";
-            }
-        }
-        public Versenytav(string rajtszam)
-        {
-            Rajtszam = rajtszam;
-        }
-    }
-    class Versenyzo
-    {
-        public string Rajtszam { get; private set; }
-        public string Kategoria { get; private set; }
-        public string Nev { get; private set; }
-        public string Egyesulet { get; private set; }
-        public TimeSpan Ido { get; private set; }
-
-        public string Tav { get; private set; }
-
-        public bool NoiVersenyzo => Kategoria.Last() == 'n';
-
-        public bool TobbMintHat => Ido > new TimeSpan(6, 0, 0);
-
-        public Versenyzo(string sor)
-        {
-            string[] m = sor.Split(';');
-            Rajtszam = m[0];
-            Kategoria = m[1];
-            Nev = m[2];
-            Egyesulet = m[3];
-            int ora = int.Parse(m[4].Split(':')[0]);
-            int perc = int.Parse(m[4].Split(':')[1]);
-            int mp = int.Parse(m[4].Split(':')[2]);
-            Ido = new TimeSpan(ora, perc, mp);
-            Tav = new Versenytav(Rajtszam).Tav;
-        }
-    }
+{   
     class BukkMaraton2019
     {
         static void Main()
@@ -110,7 +58,6 @@ namespace BukkMaraton2019
             Console.WriteLine($"\tEgyesület: {gyoztesFerfiRovidTav.Egyesulet}");
             Console.WriteLine($"\tIdő: {gyoztesFerfiRovidTav.Ido}");
 
-
             Console.WriteLine("8. feladat: Statisztika");
             Dictionary<string, int> stat = new Dictionary<string, int>();
             foreach (var v in versenyzok)
@@ -123,7 +70,7 @@ namespace BukkMaraton2019
             }
             foreach (var s in stat) Console.WriteLine($"\t{s.Key} - {s.Value}fő");
 
-            Console.ReadKey(); // Nem a megoldás része
+            Console.ReadKey();
         }
     }
 }
