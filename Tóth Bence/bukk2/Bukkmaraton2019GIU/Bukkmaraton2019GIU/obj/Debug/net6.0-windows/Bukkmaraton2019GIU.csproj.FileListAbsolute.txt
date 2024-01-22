@@ -1,0 +1,2 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk2\Bukkmaraton2019GIU\Bukkmaraton2019GIU\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk2\Bukkmaraton2019GIU\Bukkmaraton2019GIU\obj\Debug\net6.0-windows\Bukkmaraton2019GIU_MarkupCompile.cache
