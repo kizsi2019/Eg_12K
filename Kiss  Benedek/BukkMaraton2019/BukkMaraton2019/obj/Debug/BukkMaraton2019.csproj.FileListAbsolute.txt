@@ -1,0 +1,7 @@
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe.config
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.pdb
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.AssemblyReference.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb

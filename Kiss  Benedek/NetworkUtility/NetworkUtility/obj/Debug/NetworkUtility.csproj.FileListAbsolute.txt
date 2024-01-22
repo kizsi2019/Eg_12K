@@ -1,0 +1,7 @@
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb

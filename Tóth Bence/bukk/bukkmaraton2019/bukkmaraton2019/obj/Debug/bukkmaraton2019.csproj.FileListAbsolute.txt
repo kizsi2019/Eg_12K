@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\bin\Debug\bukkmaraton2019.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\bin\Debug\bukkmaraton2019.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\bin\Debug\bukkmaraton2019.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\bukk\bukkmaraton2019\bukkmaraton2019\obj\Debug\bukkmaraton2019.pdb
