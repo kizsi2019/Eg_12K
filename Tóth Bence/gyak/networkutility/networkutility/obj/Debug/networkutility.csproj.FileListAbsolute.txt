@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\bin\Debug\networkutility.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\gyak\networkutility\networkutility\obj\Debug\networkutility.pdb
