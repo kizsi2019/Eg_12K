@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E14E9C14-3DDC-4042-B550-F3E1D94B4EAE}</ProjectGuid>
+    <ProjectGuid>{FBBA508B-121B-40BB-9A32-55FBA406905F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>bukkmaraton2019</RootNamespace>
-    <AssemblyName>bukkmaraton2019</AssemblyName>
+    <RootNamespace>BukkMaraton2019</RootNamespace>
+    <AssemblyName>BukkMaraton2019</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
