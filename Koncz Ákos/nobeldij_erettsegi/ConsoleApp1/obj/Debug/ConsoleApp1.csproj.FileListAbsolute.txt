@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
