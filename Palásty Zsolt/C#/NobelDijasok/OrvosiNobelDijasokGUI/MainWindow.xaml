@@ -1,0 +1,21 @@
+﻿<Window x:Class="OrvosiNobelDijasokGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrvosiNobelDijasokGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Ev" HorizontalAlignment="Left" Margin="54,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.186,0.45"/>
+        <Label Content="Nev" HorizontalAlignment="Left" Margin="54,150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sz/H" HorizontalAlignment="Left" Margin="54,227,0,0" VerticalAlignment="Top"/>
+        <Label Content="OszagKod" HorizontalAlignment="Left" Margin="54,298,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="171,93,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="171,154,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="171,240,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="171,311,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="500,150,0,0" VerticalAlignment="Top" Height="161" Width="128"/>
+
+    </Grid>
+</Window>
