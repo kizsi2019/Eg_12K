@@ -1,0 +1,2 @@
+Év;Név;SzületésHalálozás;Országkód
+2024;V Bnde;2004/2052;H

@@ -1,0 +1,16 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\bin\Debug\net6.0-windows\nobeldij_form.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\bin\Debug\net6.0-windows\nobeldij_form.deps.json
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\bin\Debug\net6.0-windows\nobeldij_form.runtimeconfig.json
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\bin\Debug\net6.0-windows\nobeldij_form.dll
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\bin\Debug\net6.0-windows\nobeldij_form.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.Form1.resources
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.csproj.GenerateResource.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.AssemblyInfoInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.AssemblyInfo.cs
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.dll
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\refint\nobeldij_form.dll
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\nobeldij_form.genruntimeconfig.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\nobeldij_erettsegi\nobeldij_form\obj\Debug\net6.0-windows\ref\nobeldij_form.dll
