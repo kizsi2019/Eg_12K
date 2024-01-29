@@ -36,8 +36,14 @@ namespace nobelgrapic
                 List<string> ki = new List<string>();
                 ki.Add("Év,Név,Születes/halál,Ország");
                 ki.Add($"{ev.Text},{nev.Text},{szulhal.Text}.{orsz.Text}");
-                File.WriteAllLines(ki);
-
+                File.WriteAllLines("ujdijjazott.txt",ki);
+                ev.Text = "";
+                nev.Text = "";
+                szulhal.Text = "";
+                orsz.Text = "";
+            }
+            catch(Exception) {
+                MessageBox.Show("hibas");
             }
 
         }
