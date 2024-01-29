@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RN6bnsljZf7WRzhthgyRDZ71UBYR+AQHIBo4B+506R1LLqMYx6gnXARGDIsb73L/PyUDJgR8rqMnXyRU+qhinA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\c#\\nobeldijas\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tsik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tsik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tsik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tsik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
