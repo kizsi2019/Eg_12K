@@ -84,7 +84,18 @@ namespace karacsonyCLI
                     Console.WriteLine($"\t{item.Key}");
                 }
             }
-
+            //8
+            StreamWriter sw = new StreamWriter("bevetel.txt");
+            int legalabb10000 = 0;
+            foreach (NapiMunka item in lista )
+            {
+                if (item.NapiBevetel()>=10000)
+                {
+                    sw.WriteLine($"{item.Nap}:{item.NapiBevetel()}");
+                    legalabb10000++;
+                }
+            }
+            sw.Close();
 
             Console.ReadKey();
         }
