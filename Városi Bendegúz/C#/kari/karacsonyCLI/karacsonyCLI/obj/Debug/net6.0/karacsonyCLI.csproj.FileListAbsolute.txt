@@ -1,0 +1,14 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.AssemblyInfoInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.AssemblyInfo.cs
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.deps.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.runtimeconfig.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\refint\karacsonyCLI.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.genruntimeconfig.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\kari\karacsonyCLI\karacsonyCLI\obj\Debug\net6.0\ref\karacsonyCLI.dll
