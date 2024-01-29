@@ -1,2 +1,2 @@
 Év;Név;SzületésHalálozás;Országkód
-2024;V Bnde;2004/2052;H
+1998;Adram Mlenclhele;1990/2043;Hu
