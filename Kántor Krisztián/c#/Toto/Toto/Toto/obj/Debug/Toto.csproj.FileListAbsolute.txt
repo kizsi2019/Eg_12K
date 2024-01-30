@@ -1,0 +1,7 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\bin\Debug\Toto.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\bin\Debug\Toto.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\bin\Debug\Toto.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\obj\Debug\Toto.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\obj\Debug\Toto.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Toto\Toto\Toto\obj\Debug\Toto.pdb
