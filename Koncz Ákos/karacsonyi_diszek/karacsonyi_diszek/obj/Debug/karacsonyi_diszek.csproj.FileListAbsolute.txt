@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\bin\Debug\karacsonyi_diszek.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\bin\Debug\karacsonyi_diszek.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\bin\Debug\karacsonyi_diszek.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\obj\Debug\karacsonyi_diszek.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\obj\Debug\karacsonyi_diszek.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\obj\Debug\karacsonyi_diszek.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\karacsonyi_diszek\karacsonyi_diszek\obj\Debug\karacsonyi_diszek.pdb
