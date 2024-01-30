@@ -1,0 +1,2 @@
+Év;Név;SzületésHalálozás;Országkód
+2024;K Krisztián;2006;H
