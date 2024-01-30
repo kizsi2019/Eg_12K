@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NobelDijazottakGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="439" Width="839">
+    <Grid Margin="0,0,10,13">
         <TextBlock HorizontalAlignment="Left" Margin="44,41,0,0" TextWrapping="Wrap" Text="Év" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="44,73,0,0" TextWrapping="Wrap" Text="Név" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="44,111,0,0" TextWrapping="Wrap" Text="Sz/H" VerticalAlignment="Top"/>
