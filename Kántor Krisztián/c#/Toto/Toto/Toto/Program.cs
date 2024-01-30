@@ -12,10 +12,10 @@ namespace Toto
         static void Main(string[] args)
         {
             //2
-            List<EredmenyElemzo> lista = new List<EredmenyElemzo>();
+            List<Olvasas> lista = new List<Olvasas>();
             foreach (var sor in File.ReadAllLines("toto.txt").Skip(1))
             {
-                lista.Add(new EredmenyElemzo(sor));
+                lista.Add(new Olvasas(sor));
             }
 
             //3
@@ -24,7 +24,7 @@ namespace Toto
 
             //4
             int count = 0;
-            foreach (EredmenyElemzo item in lista)
+            foreach (Olvasas item in lista)
             {
                 if (item.t13p1>0)
                 {
@@ -37,7 +37,7 @@ namespace Toto
             double avg = 0;
             Int64 nyeremenyOsszeg = 0;
             int db = 0;
-            foreach(EredmenyElemzo item in lista)
+            foreach(Olvasas item in lista)
             {
                 if (item.t13p1>0)
                 {
@@ -87,7 +87,7 @@ namespace Toto
 
 
             //8
-            /*
+            
             bool dontetlen = false;
             foreach (var i in lista)
             {
@@ -99,7 +99,7 @@ namespace Toto
                 }
             }
             Console.WriteLine($"8. feladat: {(dontetlen ? "Volt" : "Nem volt")} döntetlen nélküli forduló!");
-            */
+            
 
             Console.ReadKey();
         }
