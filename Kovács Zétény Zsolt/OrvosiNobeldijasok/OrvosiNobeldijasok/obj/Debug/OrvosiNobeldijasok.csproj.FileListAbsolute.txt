@@ -1,0 +1,7 @@
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe.config
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.exe
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.pdb
