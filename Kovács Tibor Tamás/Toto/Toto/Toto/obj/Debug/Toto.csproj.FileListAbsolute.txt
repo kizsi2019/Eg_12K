@@ -1,0 +1,7 @@
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\bin\Debug\Toto.exe.config
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\bin\Debug\Toto.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\bin\Debug\Toto.pdb
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\obj\Debug\Toto.csproj.AssemblyReference.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\obj\Debug\Toto.exe
+C:\Users\kovacs.tibor.tamas\Desktop\Új mappa (3)\Eg_12K\Kovács Tibor Tamás\Toto\Toto\Toto\obj\Debug\Toto.pdb
