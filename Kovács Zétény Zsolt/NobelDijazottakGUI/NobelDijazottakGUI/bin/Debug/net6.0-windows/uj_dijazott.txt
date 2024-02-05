@@ -1,0 +1,2 @@
+Ev;Nev;SzueletesHalalozas;Orszagkod
+2022;Kovacs;1111;alma

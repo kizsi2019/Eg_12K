@@ -1,0 +1,15 @@
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll

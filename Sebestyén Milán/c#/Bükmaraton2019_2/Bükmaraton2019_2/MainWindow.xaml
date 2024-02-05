@@ -16,7 +16,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="50,120,0,0" TextWrapping="Wrap" Text="Átlag sebesség m/s:" VerticalAlignment="Top"/>
         <TextBlock Name="atlagkilometerperora" HorizontalAlignment="Left" Margin="190,90,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
         <TextBlock Name="atlagmeterpermasodperc" HorizontalAlignment="Left" Margin="190,120,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Margin="190,60,0,0" TextWrapping="Wrap" Text="1:00:00" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="cdido" HorizontalAlignment="Left" Margin="190,60,0,0" TextWrapping="Wrap" Text="1:00:00" VerticalAlignment="Top" Width="120"/>
         <ComboBox Name="cdtav" HorizontalAlignment="Left" Margin="190,30,0,0" VerticalAlignment="Top" Width="120">
             <ComboBoxItem Content="Mini - 16km"/>
             <ComboBoxItem Content="Rövid - 38km"/>
@@ -24,6 +24,6 @@
             <ComboBoxItem Content="közep - 57km" IsSelected="True"/>
             <ComboBoxItem Content="Hosszú - 94km"/>
         </ComboBox>
-        <Button Name="szamol" Content="szamol" HorizontalAlignment="Left" Margin="331,24,0,0" VerticalAlignment="Top" Height="139" Width="150"/>
+        <Button Name="szamol" Content="szamol" HorizontalAlignment="Left" Margin="331,24,0,0" VerticalAlignment="Top" Height="139" Width="150" Click="btnSzamol_click"/>
     </Grid>
 </Window>

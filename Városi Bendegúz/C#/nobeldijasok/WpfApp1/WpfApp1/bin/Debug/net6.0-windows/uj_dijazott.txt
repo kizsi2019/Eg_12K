@@ -1,0 +1,2 @@
+Év;Név;SzületésHalálozás;Országkód
+1998;Adram Mlenclhele;1990/2043;Hu
