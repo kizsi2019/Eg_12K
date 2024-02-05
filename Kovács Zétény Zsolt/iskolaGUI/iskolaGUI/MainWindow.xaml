@@ -1,0 +1,14 @@
+﻿<Window x:Class="iskolaGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iskolaGUI"
+        mc:Ignorable="d"
+        Title="Iskola GUI" Height="704" Width="356">
+    <Grid Margin="0,0,-171,-269">
+        <ListBox x:Name="EzEgyListBox" HorizontalAlignment="Left" Height="577" Margin="10,10,0,0" VerticalAlignment="Top" Width="293"/>
+        <Button x:Name="Törlés" Content="Törlés" HorizontalAlignment="Left" Margin="24,606,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.353" Width="115" Click="btnTorles_Click" />
+        <Button x:Name="Mentés" Content="Állomány mentése" HorizontalAlignment="Left" Margin="172,606,0,0" VerticalAlignment="Top" Width="115" Click="btnMentes_Click"/>
+    </Grid>
+</Window>
