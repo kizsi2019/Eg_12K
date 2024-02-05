@@ -32,7 +32,7 @@ namespace NobelDijazottakGUI
             {
                 if (int.Parse(tbEv.Text) <= 1989)
                 {
-                    MessageBox.Show("Hiba! Az évszám nrm megfelelő!", "Mentés");
+                    MessageBox.Show("Hiba! Az évszám nem megfelelő!", "Mentés");
                     return;
                 }
                 try
