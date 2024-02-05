@@ -1,0 +1,14 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\bin\Debug\net6.0\Iskola.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\bin\Debug\net6.0\Iskola.deps.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\bin\Debug\net6.0\Iskola.runtimeconfig.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\bin\Debug\net6.0\Iskola.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\bin\Debug\net6.0\Iskola.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.AssemblyInfoInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.AssemblyInfo.cs
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\refint\Iskola.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\Iskola.genruntimeconfig.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\Jedlik\Iskola\Iskola\obj\Debug\net6.0\ref\Iskola.dll
