@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iskola", "Iskola\Iskola.csproj", "{0910B8BC-11E9-4B57-A69B-0E8EE638150B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0910B8BC-11E9-4B57-A69B-0E8EE638150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0910B8BC-11E9-4B57-A69B-0E8EE638150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0910B8BC-11E9-4B57-A69B-0E8EE638150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0910B8BC-11E9-4B57-A69B-0E8EE638150B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017BECF8-D04B-45D6-81BC-01F5CFB0BD7E}
+	EndGlobalSection
+EndGlobal
