@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
+    "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
+    "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "projectUniqueName": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
         "projectName": "NetworkUtility.Tests",
-        "projectPath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
-        "packagesPath": "C:\\Users\\kantor.krisztian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\obj\\",
+        "projectPath": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "packagesPath": "C:\\Users\\Tsik\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kantor.krisztian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tsik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
-                "projectPath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj"
+              "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
+                "projectPath": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj"
               }
             }
           }
@@ -89,15 +90,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
+    "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
+        "projectUniqueName": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
         "projectName": "NetworkUtility",
-        "projectPath": "C:\\Users\\kantor.krisztian\\Desktop\\orai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
+        "projectPath": "D:\\git\\Órai\\Eg_12K\\Kántor Krisztián\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
