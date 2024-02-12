@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFOR2CwvXcFDo7PF1511DR2y4e7OHNLUpvlo+mmF5lmgHJ1+h1h7ZZkajoKJnO0vhvxWq7H3ogc2fWJCeTRolw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zsigm\\OneDrive\\Asztali gép\\Github\\Egressy\\Eg_12K\\Kiss Zsigmond\\C#\\Toto\\TotoGUI\\TotoGUI\\TotoGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsigm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\zsigm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\zsigm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\zsigm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

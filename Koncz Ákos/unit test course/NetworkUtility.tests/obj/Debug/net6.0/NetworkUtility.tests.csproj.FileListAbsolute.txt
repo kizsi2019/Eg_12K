@@ -1,0 +1,5 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility.tests\obj\Debug\net6.0\NetworkUtility.tests.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility.tests\obj\Debug\net6.0\NetworkUtility.tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility.tests\obj\Debug\net6.0\NetworkUtility.tests.AssemblyInfoInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility.tests\obj\Debug\net6.0\NetworkUtility.tests.AssemblyInfo.cs
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\unit test course\NetworkUtility.tests\obj\Debug\net6.0\NetworkUtility.tests.csproj.CoreCompileInputs.cache
