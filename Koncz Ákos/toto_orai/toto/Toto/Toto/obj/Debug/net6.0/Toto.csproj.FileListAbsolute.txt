@@ -1,0 +1,14 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\bin\Debug\net6.0\Toto.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\bin\Debug\net6.0\Toto.deps.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\bin\Debug\net6.0\Toto.runtimeconfig.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\bin\Debug\net6.0\Toto.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\bin\Debug\net6.0\Toto.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.AssemblyInfoInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.AssemblyInfo.cs
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\refint\Toto.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\Toto.genruntimeconfig.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\toto\Toto\Toto\obj\Debug\net6.0\ref\Toto.dll

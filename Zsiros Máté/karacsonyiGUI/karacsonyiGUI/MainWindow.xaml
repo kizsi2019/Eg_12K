@@ -1,0 +1,25 @@
+﻿<Window x:Class="karacsonyGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:karacsonyGUI"
+        mc:Ignorable="d"
+        Title="Angyalka" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nap száma:" HorizontalAlignment="Left" Margin="50,20,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="130,24,0,0" VerticalAlignment="Top" Width="70" Name="napok"/>
+
+        <Label Content="Elkészített:" HorizontalAlignment="Left" Margin="250,20,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="320,24,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Name="keszTB" />
+
+        <Label Content="Eladott:" HorizontalAlignment="Left" Margin="450,20,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="510,24,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Name="arulTB" />
+
+        <Button Content="Hozzáad" HorizontalAlignment="Left" Margin="650,24,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="338,47,0,0" VerticalAlignment="Top" Name="hiba" Foreground="Red"/>
+
+        <TextBox HorizontalAlignment="Left" Margin="50,80,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top"  Width="530" Height="230" Name="kimenet" ScrollViewer.PanningMode="VerticalOnly" ScrollViewer.VerticalScrollBarVisibility="Auto" IsReadOnly="True" />
+
+    </Grid>
+</Window>

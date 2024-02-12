@@ -32,5 +32,10 @@ namespace networkutility.Ping
                 return ("Positive, it is.");
             }
         }
+
+        public DateTime LastPingDate()
+        {
+            return DateTime.Now;
+        }
     }
 }

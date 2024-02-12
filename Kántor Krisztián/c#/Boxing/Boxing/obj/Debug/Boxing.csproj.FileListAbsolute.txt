@@ -1,0 +1,7 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\bin\Debug\Boxing.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\bin\Debug\Boxing.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\obj\Debug\Boxing.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\obj\Debug\Boxing.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Boxing\Boxing\obj\Debug\Boxing.pdb
