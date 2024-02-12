@@ -1,0 +1,17 @@
+﻿<Window x:Class="QuizApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quiz App" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Kérdés:" FontWeight="Bold" FontSize="18"/>
+            <TextBlock x:Name="questionTextBlock" TextWrapping="Wrap"/>
+            <RadioButton x:Name="option1RadioButton" Content="Válasz 1"/>
+            <RadioButton x:Name="option2RadioButton" Content="Válasz 2"/>
+            <RadioButton x:Name="option3RadioButton" Content="Válasz 3"/>
+            <Button Content="Ellenőrzés" Click="CheckAnswer_Click" Margin="10"/>
+            <TextBlock x:Name="resultTextBlock" Margin="10" FontWeight="Bold" FontSize="16"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

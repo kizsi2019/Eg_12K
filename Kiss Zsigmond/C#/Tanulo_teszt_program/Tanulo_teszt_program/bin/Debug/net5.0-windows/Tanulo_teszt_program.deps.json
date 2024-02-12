@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tanulo_teszt_program/1.0.0": {
+        "runtime": {
+          "Tanulo_teszt_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tanulo_teszt_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

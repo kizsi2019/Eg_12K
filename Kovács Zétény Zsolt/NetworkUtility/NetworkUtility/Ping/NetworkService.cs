@@ -30,5 +30,11 @@ namespace NetworkUtility.Ping
             }
             else { return "Nulla"; }
         }
+
+        public DateTime LastPingDate()
+        {
+            return DateTime.Now;
+        }
+
     }
 }

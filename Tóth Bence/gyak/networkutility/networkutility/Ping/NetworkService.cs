@@ -20,11 +20,11 @@ namespace networkutility.Ping
 
         public string Teljes(int a)
         {
-            if( a < 0)
+            if (a < 0)
             {
                 return ("Negativ");
             }
-            else if(a == 0)
+            else if (a == 0)
             {
                 return ("Zero");
             }
@@ -34,5 +34,10 @@ namespace networkutility.Ping
             }
 
         }
+
+        public DateTime
+            {
+
+}
     }
 }
