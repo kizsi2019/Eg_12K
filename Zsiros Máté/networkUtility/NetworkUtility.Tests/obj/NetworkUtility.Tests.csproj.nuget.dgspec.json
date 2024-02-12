@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
+    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
+    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
         "projectName": "NetworkUtility.Tests",
-        "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
         "packagesPath": "C:\\Users\\Zsiros.Mate.Ferenc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\networkutility\\networkutility.csproj": {
-                "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\networkutility\\networkutility.csproj"
+              "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\networkutility\\networkutility.csproj": {
+                "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\networkutility\\networkutility.csproj"
               }
             }
           }
@@ -93,11 +93,11 @@
         }
       }
     },
-    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\networkutility\\networkutility.csproj": {
+    "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\networkutility\\networkutility.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\networkutility\\networkutility.csproj",
+        "projectUniqueName": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\networkutility\\networkutility.csproj",
         "projectName": "networkutility",
-        "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\networkutility\\networkutility.csproj",
+        "projectPath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\networkutility\\networkutility.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

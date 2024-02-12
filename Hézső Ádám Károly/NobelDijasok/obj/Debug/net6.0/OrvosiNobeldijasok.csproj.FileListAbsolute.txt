@@ -1,0 +1,4 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NobelDijasok\obj\Debug\net6.0\OrvosiNobeldijasok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NobelDijasok\obj\Debug\net6.0\OrvosiNobeldijasok.AssemblyInfoInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NobelDijasok\obj\Debug\net6.0\OrvosiNobeldijasok.AssemblyInfo.cs
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\NobelDijasok\obj\Debug\net6.0\OrvosiNobeldijasok.csproj.CoreCompileInputs.cache

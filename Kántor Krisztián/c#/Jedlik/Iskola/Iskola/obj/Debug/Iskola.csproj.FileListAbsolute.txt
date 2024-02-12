@@ -1,0 +1,7 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\bin\Debug\Iskola.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\bin\Debug\Iskola.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\bin\Debug\Iskola.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\obj\Debug\Iskola.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Jedlik\Iskola\Iskola\obj\Debug\Iskola.pdb
