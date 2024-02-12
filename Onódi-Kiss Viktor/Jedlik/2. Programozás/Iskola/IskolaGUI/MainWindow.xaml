@@ -1,0 +1,12 @@
+﻿<Window x:Class="IskolaGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Iskola GUI" Height="413" Width="261">
+    <Grid Height="382" VerticalAlignment="Top" Margin="0,0,-16,0">
+        <ListBox x:Name="tanulokListBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="207" Height="288" Margin="20,23,0,0">
+            <!-- 10. Feladat: A lista elemei a forrásfájl sorai legyenek -->
+        </ListBox>
+        <Button Content="Törlés" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="20" Margin="20,332,0,0" Click="TorlesButton_Click"/>
+        <Button Content="Állomány mentése" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Height="20" Margin="109,332,0,0" Click="MentesButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zPs7ZPBrpgfzwlojAdduuUa4dSf2AEF8okt4U7gElreITgUGpcB61GT5Mms5FfpWefFV+lnyqXUctqXZQTUaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zsigm\\OneDrive\\Asztali gép\\Github\\Egressy\\Eg_12K\\Kiss Zsigmond\\Tesztelés\\Mocking_test\\NetworkUtility2\\NetworkUtility2\\NetworkUtility2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsigm\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\zsigm\\.nuget\\packages\\fakeiteasy\\8.1.0\\fakeiteasy.8.1.0.nupkg.sha512",
+    "C:\\Users\\zsigm\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

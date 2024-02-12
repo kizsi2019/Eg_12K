@@ -1,0 +1,7 @@
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\bin\Debug\kracsonyCLI.exe.config
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\bin\Debug\kracsonyCLI.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\bin\Debug\kracsonyCLI.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\obj\Debug\kracsonyCLI.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\obj\Debug\kracsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\obj\Debug\kracsonyCLI.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\2. Karácsonyi díszek\kracsonyCLI\kracsonyCLI\obj\Debug\kracsonyCLI.pdb
