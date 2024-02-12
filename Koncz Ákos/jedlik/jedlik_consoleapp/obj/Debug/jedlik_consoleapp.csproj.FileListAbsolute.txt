@@ -1,0 +1,7 @@
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\bin\Debug\jedlik_consoleapp.exe.config
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\bin\Debug\jedlik_consoleapp.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\bin\Debug\jedlik_consoleapp.pdb
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\obj\Debug\jedlik_consoleapp.csproj.AssemblyReference.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\obj\Debug\jedlik_consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\obj\Debug\jedlik_consoleapp.exe
+C:\Users\koncz.akos\Desktop\github\Eg_12K\Koncz Ákos\jedlik\jedlik_consoleapp\obj\Debug\jedlik_consoleapp.pdb
