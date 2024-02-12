@@ -1,0 +1,117 @@
+body{
+    background-color: rgba(0,0,255,5%);
+    font-size:90%;
+}
+
+#fej{
+    background-image: url('fej2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+#fej h1{
+    margin-top: -40px;
+    color: darkblue;
+    text-shadow:1px 1px 0px #ffeeee, 2px 2px 0px darkblue; 
+}
+
+.menu{
+    color:darkblue;
+    margin-top: -30px;
+    padding: 10px 5px 25px;
+}
+
+h2{
+    font-size: 125%;
+    color: darkblue;    
+}
+
+.tab-pane{
+    background-color: white;
+    border-left: 1px solid rgb(222,226,230); 
+    border-bottom: 1px solid rgb(222,226,230); 
+    border-right: 1px solid rgb(222,226,230); 
+    padding-bottom: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+table{
+    font-size: 80%;
+    margin: auto;
+}
+
+td{
+    background-color: rgba(0,0,255,5%);
+    border: 3px solid white;
+    padding: 7px;
+}
+
+td span {
+    font-weight: normal;
+    font-style: italic;
+    color: black;
+}
+
+td:first-child{
+    text-align: right;
+    font-weight: bold;
+    color: darkblue;
+}
+td:nth-child(2){
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+    padding: 5px;
+}
+figure{
+    background-color: rgba(222,226,230,35%);
+    padding: 10px;
+    margin: 5px 25px;
+}
+
+figcaption{
+    font-style: italic;
+}
+
+blockquote{
+    margin: 5px 25px;
+    border-left: 15px solid rgb(222,226,230);
+    background-color: rgba(222,226,230,35%);
+    font-style: italic;
+    border-radius: 20px;
+}
+
+#halLista{
+    cursor: pointer;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+#halLista li {
+    height: 35px;
+    vertical-align: middle;
+    padding: 0px;
+    padding-right: 21px;
+    line-height: 95%;
+    font-size: 95%;
+}
+
+#halLista li:hover{
+    background-image: url('nyil.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 20px 20px;
+}
+
+#sugo{
+    color: rgb(175,175,175);
+    padding: 25px;
+    letter-spacing: 120%;
+    font-style: italic;
+    text-align: center;
+}

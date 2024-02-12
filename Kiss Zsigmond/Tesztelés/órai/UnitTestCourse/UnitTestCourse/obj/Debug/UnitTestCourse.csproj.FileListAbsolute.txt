@@ -1,0 +1,7 @@
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe.config
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\órai\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.pdb

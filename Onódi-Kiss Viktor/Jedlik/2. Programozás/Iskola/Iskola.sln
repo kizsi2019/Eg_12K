@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iskola", "Iskola\Iskola.csproj", "{9A9D66AD-AC6F-4685-B166-55372E51BC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IskolaGUI", "IskolaGUI\IskolaGUI.csproj", "{3ADEE6AB-27C9-4A48-A6CE-6544E9F1EE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9D66AD-AC6F-4685-B166-55372E51BC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9D66AD-AC6F-4685-B166-55372E51BC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9D66AD-AC6F-4685-B166-55372E51BC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9D66AD-AC6F-4685-B166-55372E51BC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADEE6AB-27C9-4A48-A6CE-6544E9F1EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEE6AB-27C9-4A48-A6CE-6544E9F1EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEE6AB-27C9-4A48-A6CE-6544E9F1EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEE6AB-27C9-4A48-A6CE-6544E9F1EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CB1F66-17CF-4408-96F7-851BC1AAA23A}
+	EndGlobalSection
+EndGlobal

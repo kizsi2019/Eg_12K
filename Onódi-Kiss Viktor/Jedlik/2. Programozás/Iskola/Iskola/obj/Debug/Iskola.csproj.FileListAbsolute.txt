@@ -1,0 +1,7 @@
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Jedlik\2. Programozás\Iskola\Iskola\obj\Debug\Iskola.pdb
