@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NetworkUtility.Tests
-build_property.ProjectDir = C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility.Tests\
+build_property.ProjectDir = D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
