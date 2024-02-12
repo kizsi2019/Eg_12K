@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\bin\Debug\iskola.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\bin\Debug\iskola.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\bin\Debug\iskola.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\obj\Debug\iskola.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\obj\Debug\iskola.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\Jedlik\iskola\iskola\obj\Debug\iskola.pdb

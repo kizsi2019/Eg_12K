@@ -1,0 +1,18 @@
+﻿<Window x:Class="Toto2GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toto2GUI"
+        mc:Ignorable="d"
+        Title="Totó Eredmény Ellenőrző" Height="450" Width="800">
+    <Grid>
+        <Label Content="Kérem a forduló eredményeit [1,2,X]:" HorizontalAlignment="Left" Margin="42,57,0,0" VerticalAlignment="Top" Height="35" Width="213"/>
+        
+        <CheckBox x:Name="kevesCB" Content="Nem megfelelő a karakterek száma ()" HorizontalAlignment="Left" Height="23" Margin="42,154,0,0" VerticalAlignment="Top" Width="244"/>
+        <CheckBox x:Name="helytelenCB" Content="Helytelen karakter az eredményekben ()" HorizontalAlignment="Left" Height="23" Margin="42,182,0,0" VerticalAlignment="Top" Width="244"/>
+        <Button x:Name="mentes" Content="Eredmények mentése" HorizontalAlignment="Left" Height="23" Margin="42,243,0,0" VerticalAlignment="Top" Width="203" />
+        <TextBox Name="eredmenyTB" HorizontalAlignment="Left" Height="29" Margin="55,92,0,0" TextWrapping="Wrap" Text="12X12X12X12X12" VerticalAlignment="Top" Width="345" TextChanged="eredmenyTB_TextChanged_1"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\bin\Debug\Boxing_unboxing.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\bin\Debug\Boxing_unboxing.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\bin\Debug\Boxing_unboxing.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\obj\Debug\Boxing_unboxing.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\obj\Debug\Boxing_unboxing.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\obj\Debug\Boxing_unboxing.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\Boxing_unboxing\Boxing_unboxing\obj\Debug\Boxing_unboxing.pdb

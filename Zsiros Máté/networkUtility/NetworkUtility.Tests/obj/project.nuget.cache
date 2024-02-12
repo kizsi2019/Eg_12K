@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UQaIvR3Y99Tv53WjPm9RGwb7IA96QZxJb4f6Syz0EmTm2bnGnpisSzpMQgPyJkc27JUAttSigierc9h298bLKg==",
+  "dgSpecHash": "Zw40bs1Vm8TsaUBYQFyth2ex/TfPqS3CgI0gDYAg1YjENl7gLvgU6d254LgAnkinC3VTghoyBRq7mO0yMfu4Dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkutility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Zsiros.Mate.Ferenc\\Desktop\\hitgub\\Eg_12K\\Zsiros Máté\\networkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zsiros.Mate.Ferenc\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Zsiros.Mate.Ferenc\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
