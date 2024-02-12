@@ -10,13 +10,18 @@ namespace NetworkUtility.Tests.Ping_tests
 {
     public class NetworkServiceTests
     {
+        private readonly NetworkService _pingService;
+        public NetworkServiceTests() 
+        {
+            _pingService = new NetworkService();
+        }
         [Fact]
         public void NetworkService_SendPing_ReturnString()
         {
             //Arrange
-            var pingService = new NetworkService();
+
             //Act
-            var result = pingService.SendPing();
+            var result = _pingService.SendPing();
             //Assert
             result.Should().NotBeNullOrWhiteSpace();
             result.Should().Be("Succes: Ping sent!");

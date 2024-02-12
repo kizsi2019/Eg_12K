@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Iskola\Iskola\obj\Debug\Iskola.pdb

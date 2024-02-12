@@ -1,0 +1,16 @@
+﻿<Window x:Class="IskolaGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IskolaGUI"
+        mc:Ignorable="d"
+        Title="Iskola GUI" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="tanulokLista" HorizontalAlignment="Left" Height="577" Margin="10,10,0,0" VerticalAlignment="Top" Width="293"/>
+        <Button x:Name="tanulokTorles" Content="Törlés" HorizontalAlignment="Left" Margin="24,606,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.353" Width="115" Click="btnTöröl_Click" />
+        <Button x:Name="mentes" Content="Állomány mentése" HorizontalAlignment="Left" Margin="172,606,0,0" VerticalAlignment="Top" Width="115" Click="btnMentés_Clicks"/>
+
+
+    </Grid>
+</Window>

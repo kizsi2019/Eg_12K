@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karacsonyGUI", "karacsonyGUI\karacsonyGUI.csproj", "{62458FF3-8F4A-4933-859C-F297C217672A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62458FF3-8F4A-4933-859C-F297C217672A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62458FF3-8F4A-4933-859C-F297C217672A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62458FF3-8F4A-4933-859C-F297C217672A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62458FF3-8F4A-4933-859C-F297C217672A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9CA41E6-6265-4208-A43F-C2723D1B32B2}
+	EndGlobalSection
+EndGlobal
