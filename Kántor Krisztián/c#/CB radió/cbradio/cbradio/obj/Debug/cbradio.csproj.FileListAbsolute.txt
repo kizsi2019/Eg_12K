@@ -1,0 +1,7 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\bin\Debug\cbradio.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\bin\Debug\cbradio.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\bin\Debug\cbradio.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\obj\Debug\cbradio.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\obj\Debug\cbradio.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\obj\Debug\cbradio.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CB radió\cbradio\cbradio\obj\Debug\cbradio.pdb

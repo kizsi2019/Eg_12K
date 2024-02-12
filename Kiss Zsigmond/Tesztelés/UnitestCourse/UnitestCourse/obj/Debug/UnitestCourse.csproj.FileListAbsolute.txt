@@ -1,0 +1,21 @@
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.exe
+C:\Users\zsigm\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe.config
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\OneDrive mappák\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe.config
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\bin\Debug\UnitestCourse.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\Tesztelés\UnitestCourse\UnitestCourse\obj\Debug\UnitestCourse.pdb
