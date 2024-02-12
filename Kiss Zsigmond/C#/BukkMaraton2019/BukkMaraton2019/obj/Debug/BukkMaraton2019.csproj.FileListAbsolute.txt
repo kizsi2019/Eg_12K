@@ -1,0 +1,7 @@
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe.config
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.pdb
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.AssemblyReference.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
+C:\Users\kiss.zsigmond\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb

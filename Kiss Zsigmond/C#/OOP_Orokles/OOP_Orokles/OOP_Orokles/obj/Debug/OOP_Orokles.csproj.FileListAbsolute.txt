@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\bin\Debug\OOP_Orokles.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\bin\Debug\OOP_Orokles.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\bin\Debug\OOP_Orokles.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\Egressy\Eg_12K\Kiss Zsigmond\C#\OOP_Orokles\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.pdb
