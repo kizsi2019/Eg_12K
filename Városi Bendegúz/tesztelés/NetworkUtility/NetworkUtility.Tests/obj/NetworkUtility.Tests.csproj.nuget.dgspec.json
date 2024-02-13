@@ -48,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "FluentAssertions": {
               "target": "Package",
               "version": "[6.12.0, )"

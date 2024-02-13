@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3+9nhmYkAgIp8KlawWHE0YH4VkkSz9GDtXlaVxYzy+eY6pTOPcDbkteO6XP8dee4GnsXXUkjQMtMx+PB+i6DMw==",
+  "dgSpecHash": "cpxS3zTGT4Dney8y0AyDald20IZFZq+xa1kPkpyCZAC6uUxR3H+gceTXlhmiZl1u8IY9kzXh/d5G0K13clqwMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\fakeiteasy\\8.1.0\\fakeiteasy.8.1.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
@@ -40,6 +42,7 @@
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
