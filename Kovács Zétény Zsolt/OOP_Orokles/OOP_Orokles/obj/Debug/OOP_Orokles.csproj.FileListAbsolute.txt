@@ -1,0 +1,2 @@
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\OOP_Orokles\OOP_Orokles\obj\Debug\OOP_Orokles.csproj.CoreCompileInputs.cache

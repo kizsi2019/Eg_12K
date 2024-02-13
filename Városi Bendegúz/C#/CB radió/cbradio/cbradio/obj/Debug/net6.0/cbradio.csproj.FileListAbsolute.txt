@@ -1,0 +1,14 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\bin\Debug\net6.0\cbradio.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\bin\Debug\net6.0\cbradio.deps.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\bin\Debug\net6.0\cbradio.runtimeconfig.json
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\bin\Debug\net6.0\cbradio.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\bin\Debug\net6.0\cbradio.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.AssemblyInfoInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.AssemblyInfo.cs
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\refint\cbradio.dll
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\cbradio.genruntimeconfig.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\CB radió\cbradio\cbradio\obj\Debug\net6.0\ref\cbradio.dll
