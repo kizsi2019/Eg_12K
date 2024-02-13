@@ -1,0 +1,7 @@
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\bin\Debug\cbradio.exe.config
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\bin\Debug\cbradio.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\bin\Debug\cbradio.pdb
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\obj\Debug\cbradio.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\obj\Debug\cbradio.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\obj\Debug\cbradio.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\cbradio\obj\Debug\cbradio.pdb

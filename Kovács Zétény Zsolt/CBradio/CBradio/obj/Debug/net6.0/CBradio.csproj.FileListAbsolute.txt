@@ -1,0 +1,14 @@
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\bin\Debug\net6.0\CBradio.exe
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\bin\Debug\net6.0\CBradio.deps.json
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\bin\Debug\net6.0\CBradio.runtimeconfig.json
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\bin\Debug\net6.0\CBradio.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\bin\Debug\net6.0\CBradio.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.AssemblyInfoInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.AssemblyInfo.cs
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\refint\CBradio.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\CBradio.genruntimeconfig.cache
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\CBradio\CBradio\obj\Debug\net6.0\ref\CBradio.dll

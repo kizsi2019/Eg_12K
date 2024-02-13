@@ -1,0 +1,4 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\karacsonyiGUI\karacsonyiGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\karacsonyiGUI\karacsonyiGUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\karacsonyiGUI\karacsonyiGUI\obj\Debug\net6.0-windows\karacsonyiGUI_MarkupCompile.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\karacsonyiGUI\karacsonyiGUI\obj\Debug\net6.0-windows\karacsonyiGUI_MarkupCompile.lref

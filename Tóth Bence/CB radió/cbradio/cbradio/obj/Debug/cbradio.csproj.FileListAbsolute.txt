@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\bin\Debug\cbradio.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\bin\Debug\cbradio.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\bin\Debug\cbradio.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\obj\Debug\cbradio.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\obj\Debug\cbradio.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\obj\Debug\cbradio.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\CB radió\cbradio\cbradio\obj\Debug\cbradio.pdb

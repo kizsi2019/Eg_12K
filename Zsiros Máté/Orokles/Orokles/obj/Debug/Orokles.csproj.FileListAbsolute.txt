@@ -1,0 +1,2 @@
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\Orokles\Orokles\obj\Debug\Orokles.csproj.AssemblyReference.cache
+C:\Users\Zsiros.Mate.Ferenc\Desktop\hitgub\Eg_12K\Zsiros Máté\Orokles\Orokles\obj\Debug\Orokles.csproj.CoreCompileInputs.cache
