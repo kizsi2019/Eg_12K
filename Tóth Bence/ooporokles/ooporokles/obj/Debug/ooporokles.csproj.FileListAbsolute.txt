@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\obj\Debug\ooporokles.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\obj\Debug\ooporokles.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\bin\Debug\ooporokles.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\bin\Debug\ooporokles.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\bin\Debug\ooporokles.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\obj\Debug\ooporokles.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\ooporokles\ooporokles\obj\Debug\ooporokles.pdb
