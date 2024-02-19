@@ -12,3 +12,15 @@ C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\tesztelés\Netw
 C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
 C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
 C:\Users\kantor.krisztian\Desktop\orai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\NetworkUtility.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\Castle.Core.dll
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\FakeItEasy.dll
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\Castle.Core.xml
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\bin\Debug\FakeItEasy.xml
+D:\git\Órai\Eg_12K\Kántor Krisztián\tesztelés\NetworkUtility\NetworkUtility\obj\Debug\NetworkUtility.csproj.CopyComplete
