@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "delegate2/1.0.0": {
+        "dependencies": {
+          "WinSCP": "6.3.0"
+        },
+        "runtime": {
+          "delegate2.dll": {}
+        }
+      },
+      "WinSCP/6.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/WinSCPnet.dll": {
+            "assemblyVersion": "1.15.0.14793",
+            "fileVersion": "1.15.0.14793"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegate2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinSCP/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qPHq9gJmmmZ+B7x6Lh6o22oBfcS054A43UK0VQgZ445BXRDrNXJlGVbtOkEEliD9WILjIA4IEG1bAYqpHN2qNg==",
+      "path": "winscp/6.3.0",
+      "hashPath": "winscp.6.3.0.nupkg.sha512"
+    }
+  }
+}
