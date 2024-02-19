@@ -1,0 +1,7 @@
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\bin\Debug\Interfész.exe.config
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\bin\Debug\Interfész.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\bin\Debug\Interfész.pdb
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\obj\Debug\Interfész.csproj.AssemblyReference.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\obj\Debug\Interfész.csproj.CoreCompileInputs.cache
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\obj\Debug\Interfész.exe
+C:\Users\hezso.karoly.adam\Desktop\Új mappa\Eg_12K\Hézső Ádám Károly\Interfész\Interfész\obj\Debug\Interfész.pdb
