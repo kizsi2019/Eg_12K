@@ -1,6 +1,8 @@
-﻿using System;
+﻿using networkutility.DNS;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +11,16 @@ namespace networkutility.Ping
 {
     public class NetworkService
     {
+        private readonly IDNS _dNS;
+        public NetworkService(IDNS dNS)
+        {
+            _dNS = dNS;
+        }
+
+        public NetworkService()
+        {
+        }
+
         public string SendPing()
         {
             return "Succes:Ping sent!";
@@ -20,7 +32,7 @@ namespace networkutility.Ping
 
         public string PositiveOrNot(int a)
         {
-            if(a < 0)
+            if (a < 0)
             {
                 return ("Negative, it is.");
             }
@@ -28,7 +40,8 @@ namespace networkutility.Ping
             {
                 return ("Zero, it is.");
             }
-            else {
+            else
+            {
                 return ("Positive, it is.");
             }
         }
@@ -36,6 +49,38 @@ namespace networkutility.Ping
         public DateTime LastPingDate()
         {
             return DateTime.Now;
+        }
+
+        public PingOptions GetPingOptions()
+        {
+            return new PingOptions()
+            {
+                DontFragment = true,
+                Ttl = 1
+            };
+        }
+
+        public IEnumerable<PingOptions> MostRecentPings()
+        {
+            IEnumerable<PingOptions> pingOptions = new[]
+            {
+                new PingOptions()
+                {
+                DontFragment = true,
+                Ttl = 1
+                },
+                new PingOptions()
+                {
+                DontFragment = true,
+                Ttl = 1
+                },
+                new PingOptions()
+                {
+                DontFragment = true,
+                Ttl = 1
+                }
+            };
+            return pingOptions;
         }
     }
 }
