@@ -1,0 +1,10 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\bin\Debug\WinSCP.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\bin\Debug\Delegate1.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\bin\Debug\Delegate1.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\bin\Debug\Delegate1.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\bin\Debug\WinSCPnet.dll
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.CopyComplete
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\obj\Debug\Delegate1.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\Delegate1\Delegate1\obj\Debug\Delegate1.pdb

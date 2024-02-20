@@ -1,0 +1,7 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\bin\Debug\@delegate.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\bin\Debug\@delegate.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\bin\Debug\@delegate.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\obj\Debug\@delegate.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\delegate\delegate\obj\Debug\@delegate.pdb
