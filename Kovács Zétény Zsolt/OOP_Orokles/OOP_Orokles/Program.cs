@@ -10,13 +10,43 @@ namespace OOP_Orokles
         
     internal class Program
     {
+        
+
+
+        interface IKöszönés
+        {
+            void Reggel();
+            void Este();
+            void Napközben();
+        }
+        interface IÜdvözlés
+        {
+            void Szia(string név);
+        }
+        class Köszönés_Üdvözlés : IKöszönés, IÜdvözlés
+        {
+            public void Reggel() { Console.WriteLine("Jó reggelt!"); }
+            public void Este() { Console.WriteLine("Jó estét!"); }
+            public void Napközben() { Console.WriteLine("Jó napot!"); }
+            public void Szia(string név) { Console.WriteLine("Szia {0}!", név); }
+        }
         static void Main(string[] args)
         {
+            
+
+
+            /*
             Teglalap t = new Teglalap(0, 0, 12, 10);
             Negyzet n = new Negyzet(0, 11, 6);
             t.Rajzol();
             n.Rajzol();
             Console.ReadKey();
+
+            Köszönés_Üdvözlés kosz = new Köszönés_Üdvözlés();
+            kosz.Reggel();
+            kosz.Este();
+            kosz.Napközben();
+            */
         }
 
 
@@ -42,7 +72,7 @@ namespace OOP_Orokles
 
         //teglalap, ami az ősosztályból származik.
         //definiálja a Rajzol metódust, illetve két új tulajdonságot is
-        public class Teglalap : Ososztaly
+        /*public class Teglalap : Ososztaly
         {
             //Téglalap méretetét beállító tulajdonságok
             public int Szelesseg { get; private set; }
@@ -56,30 +86,33 @@ namespace OOP_Orokles
             }
 
             //Rajzol függvény megvalósítása
-            public override void Rajzol()
-            {
-                Console.SetCursorPosition(X, Y);
-                for (int i = 0; i < Magassag; i++)
-                {
-                    for (int j = 0; j < Szelesseg; j++)
-                    {
-                        if (i == 0 || i == Magassag - 1) Console.Write("-");
-                        else
-                        {
-                            if (j == 0 || j == Szelesseg - 1) Console.Write("|");
-                            else Console.Write(" ");
-                        }
-                    }
-                    Console.WriteLine();
-                }
-            }
-        }
+            /* public override void Rajzol()
+             {
+                 Console.SetCursorPosition(X, Y);
+                 for (int i = 0; i < Magassag; i++)
+                 {
+                     for (int j = 0; j < Szelesseg; j++)
+                     {
+                         if (i == 0 || i == Magassag - 1) Console.Write("-");
+                         else
+                         {
+                             if (j == 0 || j == Szelesseg - 1) Console.Write("|");
+                             else Console.Write(" ");
+                         }
+                     }
+                     Console.WriteLine();
+                 }
+             }
+         }*/
 
-        //A négyzet megvalósítása
-        public sealed class Negyzet : Teglalap
+           /* //A négyzet megvalósítása
+            public sealed class Negyzet : Teglalap
         {
             public Negyzet(int x, int y, int meret) : base(x, y, meret, meret) { }
         }
-
+           */
+                
+       
+        
     }
 }
