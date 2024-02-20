@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bukkmaraton2019
 {
-    internal class Versenyzo
+    public class Versenyzo
     {
         public string Rajtszam { get; private set; }
         public string Kategoria { get; private set; }

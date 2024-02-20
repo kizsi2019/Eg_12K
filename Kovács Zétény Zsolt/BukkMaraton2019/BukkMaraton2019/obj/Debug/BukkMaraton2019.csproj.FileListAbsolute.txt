@@ -5,3 +5,15 @@ C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMa
 C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
 C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
 C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\Castle.Core.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\FakeItEasy.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\FluentAssertions.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\Castle.Core.xml
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\FakeItEasy.xml
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\FluentAssertions.pdb
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\FluentAssertions.xml
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kovacs.Zeteny.Zsolt\Desktop\GitHub\Eg_12K\Kovács Zétény Zsolt\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CopyComplete
