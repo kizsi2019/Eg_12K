@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
+    "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
+    "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
         "projectName": "NetworkUtility.Tests",
-        "projectPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
-        "packagesPath": "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility.Tests\\obj\\",
+        "projectPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+        "packagesPath": "C:\\Users\\koncz.akos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\varosi.bendeguz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koncz.akos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
-                "projectPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj"
+              "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
+                "projectPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj"
               }
             }
           }
@@ -97,11 +97,11 @@
         }
       }
     },
-    "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
+    "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
+        "projectUniqueName": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
         "projectName": "NetworkUtility",
-        "projectPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\tesztelés\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
+        "projectPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Koncz Ákos\\NetworkUtility\\NetworkUtility\\NetworkUtility.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
