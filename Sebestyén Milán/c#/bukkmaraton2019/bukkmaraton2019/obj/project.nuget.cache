@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6mKey6bimDVB+Az67D5Bw4mtrur35NcQmly2J75ouDxReQhk10oYvSRgqGjbgif41XIfSSzC+dKjoEn8JTOWRA==",
+  "dgSpecHash": "vwcsm0FNDfUgh/lQ2zcq7O01WfN2pYC8/IIajcerN3IQK7KEyPNRi9i3f4OYD54RcTOD3m/4WdViXOWwGpah1Q==",
   "success": true,
   "projectFilePath": "C:\\new\\github\\Eg_12K-main\\Eg_12K\\Sebestyén Milán\\c#\\bukkmaraton2019\\bukkmaraton2019\\bukkmaraton2019.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sebim\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\sebim\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\sebim\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

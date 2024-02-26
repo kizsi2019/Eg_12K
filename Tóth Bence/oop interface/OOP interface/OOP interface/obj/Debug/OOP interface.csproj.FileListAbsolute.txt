@@ -1,0 +1,7 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\bin\Debug\OOP interface.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\bin\Debug\OOP interface.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\bin\Debug\OOP interface.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\obj\Debug\OOP interface.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\obj\Debug\OOP interface.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\obj\Debug\OOP interface.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\oop interface\OOP interface\OOP interface\obj\Debug\OOP interface.pdb

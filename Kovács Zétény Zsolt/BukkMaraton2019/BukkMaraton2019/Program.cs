@@ -7,7 +7,7 @@ using System.IO;
 
 namespace BukkMaraton2019
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
