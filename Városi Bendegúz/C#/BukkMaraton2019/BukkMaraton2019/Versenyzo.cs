@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BukkMaraton2019
 {
-    internal class Versenyzo
+    public class Versenyzo
     {
         public string Rajtszam { get; private set; }
         public string Kategoria { get; private set; }
@@ -41,7 +41,30 @@ namespace BukkMaraton2019
             int mp = int.Parse(m[4].Split(':')[2]);
             Ido = new TimeSpan(ora, perc, mp);
             Tav = new Versenytav(Rajtszam).Tav;
+
         }
+        public Versenyzo KeresGyoztesFerfiRovidTavon(List<Versenyzo> versenyzok)
+{
+    Versenyzo gyoztesFerFiRovidTav = null;
+    foreach (var v in versenyzok)
+    {
+        if (v.Tav == "Rövid" && v.Kategoria == "ff")
+        {
+            if (gyoztesFerFiRovidTav == null)
+            {
+                gyoztesFerFiRovidTav = v;
+            }
+            else
+            {
+                if (v.Ido < gyoztesFerFiRovidTav.Ido)
+                {
+                    gyoztesFerFiRovidTav = v;
+                }
+            }
+        }
+    }
+    return gyoztesFerFiRovidTav;
+}
 
     }
 

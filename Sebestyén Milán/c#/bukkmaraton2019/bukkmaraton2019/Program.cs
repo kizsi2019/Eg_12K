@@ -1,80 +1,95 @@
-﻿namespace bukkmaraton2019
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+
+
+namespace BukkMaraton2019
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            List<Versenyzo> versenyzos = new List<Versenyzo>();
-            foreach (var item in File.ReadAllLines("bukkm2019.txt").Skip(1))
+            List<Versenyzo> versenyzok = new List<Versenyzo>();
+            foreach (var sor in File.ReadAllLines("bukkm2019.txt").Skip(1))
             {
-                versenyzos.Add(new Versenyzo(item));
+                versenyzok.Add(new Versenyzo(sor));
             }
-            Console.WriteLine($"versenytav nem teljesitettek: {(1-versenyzos.Count/691.0)*100}");
+            Console.WriteLine($"4. feladat: Versenytávot nem teljesítők: {(1 - versenyzok.Count / 691.0) * 100}%");
 
-            int ja = 0;
-            foreach (var item in versenyzos)
+            //5
+            int noiVersenyzoRovidTavon = 0;
+            foreach(var v in versenyzok)
             {
-                if (item.Noiversenyzo && Tav== "Rövid")
+                if(v.NoiVersenyzo && v.Tav == "Rövid")
                 {
-                    ja++;
+                    noiVersenyzoRovidTavon++;
                 }
-
             }
-            Console.WriteLine($"5. feladat: {ja}");
+            Console.WriteLine($"5. feladat: Női versenyzők száma rövid távú versenyen: {noiVersenyzoRovidTavon} fő");
 
-            Console.WriteLine($"6. : {Tobbhatora.count ? "volt" : "nincs"}");
-            Versenyzo ferfirovid = null;
-            foreach (var item in versenyzos)
+            //6
+            bool tobbMintHat = false;
+            foreach(var v in versenyzok)
             {
-                if (item.Tav=="Rövid" && item.Kategoria=="ff")
+                if (v.TobbMintHat)
                 {
-                    if (ferfirovid==null)
-                    {
+                    tobbMintHat = true;
+                    break;
+                }
+            }
+            Console.WriteLine($"6. feladat: {(tobbMintHat ? "Volt" : "Nem volt")} ilyen versenyző");
 
+            //7
+            Console.WriteLine($"7. feladat: A felnőtt férfi (ff) kategória győztese rövid távon:");
+            Versenyzo gyoztesFerfiRovidTav = null;
+            foreach(var v in versenyzok)
+            {
+                if(v.Tav == "Rövid" && v.Kategoria == "ff")
+                {
+                    if (gyoztesFerfiRovidTav == null)
+                    {
+                        gyoztesFerfiRovidTav = v;
                     }
                     else
                     {
-                        if (item.Ido < ferfirovid.Ido)
+                        if (v.Ido < gyoztesFerfiRovidTav.Ido)
                         {
-                            ferfirovid = item;
+                            gyoztesFerfiRovidTav = v;
                         }
                     }
                 }
                 
             }
-            Console.WriteLine(ferfirovid.Rajtszam);
-            Console.WriteLine(ferfirovid.Nev);
-            Console.WriteLine(ferfirovid.Ido);
+            Console.WriteLine($"\tRajtszám: {gyoztesFerfiRovidTav.Rajtszam}");
+            Console.WriteLine($"\tNév: {gyoztesFerfiRovidTav.Nev}");
+            Console.WriteLine($"\tEgyesület: {gyoztesFerfiRovidTav.Egyesulet}");
+            Console.WriteLine($"\tIdő: {gyoztesFerfiRovidTav.Ido}");
 
-
-            Dictionary<string, int> dict = new Dictionary<string, int>();
-
-            foreach (var item in versenyzos)
+            //8
+            Console.WriteLine("8. feladat: Statisztika");
+            Dictionary<string, int> stat = new Dictionary<string, int>();
+            foreach(var v in versenyzok)
             {
-                int count1 = 0;
-                foreach (var item2 in versenyzos)
+                if (!v.NoiVersenyzo)
                 {
-                    if (item.Kategoria == item2.Kategoria && !item2.Noiversenyzo())
+                    if (stat.ContainsKey(v.Kategoria))
                     {
-                        count1++;
+                        stat[v.Kategoria]++;
+                    }
+                    else
+                    {
+                        stat.Add(v.Kategoria, 1);
                     }
                 }
-                if (count1 > 0)
-                {
-                    dict[item.Kategoria] = count1;
-                }
             }
-            Console.WriteLine("8. feladat: Statisztika");
-            foreach (KeyValuePair<string, int> item in dict)
+            foreach (var s in stat)
             {
-                Console.WriteLine($"\t{item.Key} - {item.Value} fő");
+                Console.WriteLine($"\t{s.Key} - {s.Value} fő");
             }
-
-
-
-
 
             Console.ReadKey();
         }
-    }
-}
+    } }

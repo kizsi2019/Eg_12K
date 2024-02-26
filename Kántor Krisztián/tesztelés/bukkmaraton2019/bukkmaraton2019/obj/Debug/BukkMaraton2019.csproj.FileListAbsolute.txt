@@ -1,0 +1,7 @@
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe.config
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.pdb
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
+C:\Users\varosi.bendeguz\Desktop\github\Eg_12K\Városi Bendegúz\C#\xBukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb
