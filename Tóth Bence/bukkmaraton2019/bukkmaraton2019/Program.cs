@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace BukkMaraton2019
 {
-    internal class BukkMaraton2019
+    public class BukkMaraton2019
     {
         static void Main(string[] args)
         {

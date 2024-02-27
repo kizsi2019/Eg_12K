@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bukkmaraton2019
+namespace BukkMaraton2019
 {
-    internal class Versenytav
+    public class Versenytav
     {
         private string Rajtszam;
         public string Tav

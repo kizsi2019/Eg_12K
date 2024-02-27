@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bukkmaraton2019
 {
-    class Versenytav
+    public class Versenytav
     {
         private string Rajtszam;
         public string Tav
@@ -29,5 +29,4 @@ namespace bukkmaraton2019
             Rajtszam = rajtszam;
         }
     }
-}
 }
