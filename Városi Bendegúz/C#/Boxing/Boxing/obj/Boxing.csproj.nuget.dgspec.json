@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj": {}
+    "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj": {
+    "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj",
+        "projectUniqueName": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj",
         "projectName": "Boxing",
-        "projectPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj",
-        "packagesPath": "C:\\Users\\varosi.bendeguz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\varosi.bendeguz\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\obj\\",
+        "projectPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\Boxing.csproj",
+        "packagesPath": "C:\\Users\\koncz.akos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koncz.akos\\Desktop\\github\\Eg_12K\\Városi Bendegúz\\C#\\Boxing\\Boxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\varosi.bendeguz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koncz.akos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
