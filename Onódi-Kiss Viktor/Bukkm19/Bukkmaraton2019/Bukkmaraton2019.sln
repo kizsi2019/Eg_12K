@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bukkmaraton2019", "Bukkmaraton2019\Bukkmaraton2019.csproj", "{0B9CA87A-2844-443F-B489-198585238F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9CA87A-2844-443F-B489-198585238F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9CA87A-2844-443F-B489-198585238F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9CA87A-2844-443F-B489-198585238F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9CA87A-2844-443F-B489-198585238F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17EA765F-9B03-4332-82C9-A04CF71498BA}
+	EndGlobalSection
+EndGlobal

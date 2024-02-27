@@ -1,0 +1,7 @@
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\bin\Debug\Bukkmaraton2019.exe.config
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\bin\Debug\Bukkmaraton2019.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\bin\Debug\Bukkmaraton2019.pdb
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\obj\Debug\Bukkmaraton2019.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\obj\Debug\Bukkmaraton2019.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\obj\Debug\Bukkmaraton2019.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\Bukkm19\Bukkmaraton2019\Bukkmaraton2019\obj\Debug\Bukkmaraton2019.pdb
