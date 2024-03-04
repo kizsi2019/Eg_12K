@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace crud.Properties
+namespace CRUD.Properties
 {
 
 
