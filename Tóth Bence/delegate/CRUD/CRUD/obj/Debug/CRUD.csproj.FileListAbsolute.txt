@@ -1,0 +1,10 @@
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Toth.Bence\Desktop\osztaly github\Eg_12K\Tóth Bence\delegate\CRUD\CRUD\obj\Debug\CRUD.pdb
