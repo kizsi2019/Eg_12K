@@ -1,0 +1,10 @@
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\bin\Debug\CRUT.exe.config
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\bin\Debug\CRUT.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\bin\Debug\CRUT.pdb
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.csproj.AssemblyReference.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.Form1.resources
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.Properties.Resources.resources
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.csproj.GenerateResource.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.csproj.CoreCompileInputs.cache
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.exe
+D:\git\Órai\Eg_12K\Kántor Krisztián\c#\CRUT\CRUT\obj\Debug\CRUT.pdb
