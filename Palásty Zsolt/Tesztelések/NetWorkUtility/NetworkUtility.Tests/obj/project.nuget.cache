@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "toXQH3PfQhdDjo2As1CKnLfu/ZGtA9tawNYvxZo4wl6uG6gJ055h7e6oE+dGvVETFr4xvPIfrjo5sC9SM3BESQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Simens\\Desktop\\ \\Szoltii\\School\\12K\\IKT\\GitHub\\Eg_12K\\Palásty Zsolt\\Tesztelések\\NetWorkUtility\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "FluentAssertions"
+    }
+  ]
+}
