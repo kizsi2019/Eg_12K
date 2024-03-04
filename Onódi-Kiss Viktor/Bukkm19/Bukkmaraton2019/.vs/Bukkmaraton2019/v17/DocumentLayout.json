@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\okvik\\documents\\prog_projects\\\u00F3rai\\kizsi\\eg_12k\\on\u00F3di-kiss viktor\\bukkm19\\bukkmaraton2019\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C9DCBF-64E4-4B1A-BCEB-48366DC2B901}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\bukkmaraton2019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|solutionrelative:bukkmaraton2019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\bukkmaraton2019\\versenytav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|solutionrelative:bukkmaraton2019\\versenytav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\bukkmaraton2019\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9CA87A-2844-443F-B489-198585238F3B}|Bukkmaraton2019\\Bukkmaraton2019.csproj|solutionrelative:bukkmaraton2019\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:06:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Bukkmaraton2019\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\Versenyzo.cs",
+              "RelativeToolTip": "Bukkmaraton2019\\Versenyzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:05:53.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VersenyTav.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\VersenyTav.cs",
+              "RelativeDocumentMoniker": "Bukkmaraton2019\\VersenyTav.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\VersenyTav.cs",
+              "RelativeToolTip": "Bukkmaraton2019\\VersenyTav.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:05:52.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\Program.cs",
+              "RelativeDocumentMoniker": "Bukkmaraton2019\\Program.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\Bukkm19\\Bukkmaraton2019\\Bukkmaraton2019\\Program.cs",
+              "RelativeToolTip": "Bukkmaraton2019\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:04:04.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

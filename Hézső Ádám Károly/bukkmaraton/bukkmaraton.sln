@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34114.132
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bukkmaraton", "bukkmaraton\bukkmaraton.csproj", "{E2DCA923-4DD5-46ED-BE68-9C243A658D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesztike", "Tesztike\Tesztike.csproj", "{0F9308ED-1E8F-41A7-BE2C-ABD043A992ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E2DCA923-4DD5-46ED-BE68-9C243A658D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2DCA923-4DD5-46ED-BE68-9C243A658D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2DCA923-4DD5-46ED-BE68-9C243A658D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9308ED-1E8F-41A7-BE2C-ABD043A992ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9308ED-1E8F-41A7-BE2C-ABD043A992ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9308ED-1E8F-41A7-BE2C-ABD043A992ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9308ED-1E8F-41A7-BE2C-ABD043A992ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
