@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bükmaraton2019_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+812344865b23328ba9ea90881ef4d9805bce5f1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bükmaraton2019_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bükmaraton2019_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,3 +27,11 @@ C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C
 C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.dll
 C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\refint\Bükmaraton2019_2.dll
 C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.csproj.AssemblyReference.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2_MarkupCompile.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2_MarkupCompile.lref
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\refint\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bukk2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.pdb
