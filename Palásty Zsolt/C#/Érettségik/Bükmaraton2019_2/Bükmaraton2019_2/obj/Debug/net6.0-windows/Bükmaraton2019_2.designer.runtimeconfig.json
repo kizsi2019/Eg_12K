@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\sebim\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\sebim\\.nuget\\packages",
+      "C:\\Users\\Simens\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Simens\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
