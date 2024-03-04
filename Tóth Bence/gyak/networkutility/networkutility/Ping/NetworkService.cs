@@ -14,9 +14,9 @@ namespace networkutility.Ping
     public class NetworkService
     {
         private readonly IDNS _dNS;
-        public NetworkService(IDNS dNS)
+        public NetworkService(IDNS _dNS)
         {
-            _dNS = dNS;
+            _dNS = _dNS;
         }    
         
         public string SendPing()
