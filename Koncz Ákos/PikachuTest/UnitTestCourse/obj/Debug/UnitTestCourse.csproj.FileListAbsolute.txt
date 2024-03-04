@@ -1,0 +1,7 @@
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe.config
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\bin\Debug\UnitTestCourse.pdb
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.exe
+C:\Users\Kiss.Benedek\Desktop\Github\Eg_12K\Kiss  Benedek\UnitTestCourse\UnitTestCourse\obj\Debug\UnitTestCourse.pdb
