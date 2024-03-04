@@ -19,3 +19,24 @@ C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\Bükmaraton2019_2\Bükmara
 C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.pdb
 C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.genruntimeconfig.cache
 C:\new\github\Eg_12K-main\Eg_12K\Sebestyén Milán\c#\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\ref\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\bin\Debug\net6.0-windows\Bükmaraton2019_2.exe
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\bin\Debug\net6.0-windows\Bükmaraton2019_2.deps.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\bin\Debug\net6.0-windows\Bükmaraton2019_2.runtimeconfig.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\bin\Debug\net6.0-windows\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\bin\Debug\net6.0-windows\Bükmaraton2019_2.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2_MarkupCompile.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2_MarkupCompile.lref
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.g.resources
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.AssemblyInfoInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.AssemblyInfo.cs
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.csproj.CoreCompileInputs.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.sourcelink.json
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\refint\Bükmaraton2019_2.dll
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.pdb
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\Bükmaraton2019_2.genruntimeconfig.cache
+C:\Users\Simens\Desktop\ \Szoltii\School\12K\IKT\GitHub\Eg_12K\Palásty Zsolt\C#\Érettségik\Bükmaraton2019_2\Bükmaraton2019_2\obj\Debug\net6.0-windows\ref\Bükmaraton2019_2.dll
