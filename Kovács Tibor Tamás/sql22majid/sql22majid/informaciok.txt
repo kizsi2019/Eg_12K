@@ -1,0 +1,10 @@
+Forrás:
+-------
+https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok
+
+
+A megoldás ellenőrzése
+----------------------
+A megoldásodat úgy tudod ellenőrizni, hogy Microsoft Access segítségével megnyitod .accdb kiterjesztésű fájlt.
+(Ha a Microsoft Office telepítve van a számítógépeden a megnyitáshoz elegendő, ha a fájlkezelőben a fájlra kattintasz.)
+Ez az Oktatási Hivatal által kiadott hivatalos megoldás.
