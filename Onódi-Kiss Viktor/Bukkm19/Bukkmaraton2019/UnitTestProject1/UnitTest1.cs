@@ -20,8 +20,10 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestNegyedik()
         {
+            //661 sor van a fájlban
+            //Math.Round(((691.0 - 661.0) / 691) * 100, 2) ~= 4.34
             Assert.AreEqual(
-                Math.Round(((691.0 - 661.0) / 691) * 100, 2), 
+                4.34, 
                 Math.Round(Program.Negyedik(versenyzok), 2));
         }
 
