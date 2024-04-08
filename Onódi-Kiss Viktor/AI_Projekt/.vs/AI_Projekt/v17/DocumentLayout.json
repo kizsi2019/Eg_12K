@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\AI_Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9513E0B-D01F-4D26-BBC5-D2173CF2A87E}|AI_Projekt\\AI_Projekt.csproj|c:\\users\\okvik\\documents\\prog_projects\\\u00F3rai\\kizsi\\eg_12k\\on\u00F3di-kiss viktor\\ai_projekt\\ai_projekt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9513E0B-D01F-4D26-BBC5-D2173CF2A87E}|AI_Projekt\\AI_Projekt.csproj|solutionrelative:ai_projekt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9513E0B-D01F-4D26-BBC5-D2173CF2A87E}|AI_Projekt\\AI_Projekt.csproj|c:\\users\\okvik\\documents\\prog_projects\\\u00F3rai\\kizsi\\eg_12k\\on\u00F3di-kiss viktor\\ai_projekt\\ai_projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9513E0B-D01F-4D26-BBC5-D2173CF2A87E}|AI_Projekt\\AI_Projekt.csproj|solutionrelative:ai_projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\AI_Projekt\\AI_Projekt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AI_Projekt\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\AI_Projekt\\AI_Projekt\\MainWindow.xaml",
+              "RelativeToolTip": "AI_Projekt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T11:10:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\AI_Projekt\\AI_Projekt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AI_Projekt\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\\u00D3rai\\KiZsi\\Eg_12K\\On\u00F3di-Kiss Viktor\\AI_Projekt\\AI_Projekt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AI_Projekt\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:10:35.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

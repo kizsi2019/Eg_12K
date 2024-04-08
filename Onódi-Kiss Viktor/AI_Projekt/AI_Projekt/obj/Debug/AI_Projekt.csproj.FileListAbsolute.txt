@@ -1,0 +1,15 @@
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\bin\Debug\AI_Projekt.exe.config
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\bin\Debug\AI_Projekt.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\bin\Debug\AI_Projekt.pdb
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.csproj.AssemblyReference.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\App.g.cs
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt_MarkupCompile.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt_MarkupCompile.lref
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\MainWindow.baml
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.g.resources
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.Properties.Resources.resources
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.csproj.GenerateResource.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.exe
+C:\Users\okvik\Documents\Prog_Projects\Órai\KiZsi\Eg_12K\Onódi-Kiss Viktor\AI_Projekt\AI_Projekt\obj\Debug\AI_Projekt.pdb
