@@ -36,5 +36,30 @@ namespace AI_Projekt
                 }
             };    
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                InitialDirectory = Environment.CurrentDirectory,
+                Filter = "All files (*.*)|*.*",
+                Title = "Open File"
+            };
+
+            bool? result = openFileDialog.ShowDialog();
+
+            if (result ?? false)
+            {
+                if (File.Exists(openFileDialog.FileName))
+                {
+                    inputBox.Text = openFileDialog.FileName;
+                }
+                else
+                {
+                    // Handle the case where the file does not exist
+                    MessageBox.Show("The selected file does not exist.");
+                }
+            }
+        }
     }
 }
