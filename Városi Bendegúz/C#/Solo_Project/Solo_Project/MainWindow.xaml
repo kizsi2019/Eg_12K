@@ -1,0 +1,16 @@
+﻿<Window x:Class="Solo_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Solo_Project"
+        mc:Ignorable="d"
+        Title="Todo List" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtTodo" HorizontalAlignment="Left" Margin="78,70,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Remove" HorizontalAlignment="Left" Margin="90,195,0,0" VerticalAlignment="Top" Height="35" Width="108" Click="DeleteTodo_Click"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="251,70,122,172" x:Name="lstTodos"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="90,131,0,0" VerticalAlignment="Top" Height="35" Width="108" Click="AddTodo_Click"/>
+
+    </Grid>
+</Window>
